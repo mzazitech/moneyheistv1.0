@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "ACEE13B2B13B83297439B19BEB058D90",
+      "participant": "6285769962915@s.whatsapp.net"
+    },
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363408915524357@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwjet/lmEAEaIAGWg7e1IktlPQDKIdfS92IPn8J0Lvu4GhyQe7FKCoa4IiEFkjRrCjUbUx7NI2e4d1UVIy3bYsLEVH/AOudpO39s7QU="
+      },
+      "extendedTextMessage": {
+        "text": "pake apk apaan?",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACC252C88BEBAFDA166B49558734255C",
+          "participant": "6283155510886@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "gya sendiri"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "UayqWfAAUrDp7R3FQu4tle+6t3WvAXXBoa49ICTcYfk="
+      }
+    },
+    "messageTimestamp": "1775647979",
+    "participant": "6285769962915@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕"
+  }
+]

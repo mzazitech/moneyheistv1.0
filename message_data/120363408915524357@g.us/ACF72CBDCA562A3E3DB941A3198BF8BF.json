@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+      "participant": "6283155510886@s.whatsapp.net"
+    },
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363408915524357@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwisqPuDBBAMGiC1DHbw25d2UgYkh22jwAyKgBE9G4wch7YE2rDRU/5i0iIhBYIgoJ3Ze5hUvBOeqxQWBkAQeak8Ot0jNkbgheFRdtwM"
+      },
+      "extendedTextMessage": {
+        "text": "am",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACEE13B2B13B83297439B19BEB058D90",
+          "participant": "6285769962915@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "pake apk apaan?"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "WeTsuJUe1keszDFGrdROeC+dK96ICdPUKgCHX2hYd+c="
+      }
+    },
+    "messageTimestamp": "1775647985",
+    "participant": "6283155510886@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Abellnothuman"
+  }
+]

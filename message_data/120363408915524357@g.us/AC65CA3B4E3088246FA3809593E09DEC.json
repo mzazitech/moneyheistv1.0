@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "AC65CA3B4E3088246FA3809593E09DEC",
+      "participant": "6285769962915@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Kalau order logo di lu brpa?",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+          "participant": "6283155510886@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "am"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "Q2jlfsTbHjN5OUYlIflxNnTRpnDR4ZkkkCPsDAI4weo="
+      }
+    },
+    "messageTimestamp": "1775648005",
+    "participant": "6285769962915@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "users": {},
+  "database": {},
+  "chats": {
+    "254750611309@s.whatsapp.net": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {},
+      "antilink": false
+    },
+    "254717459770@s.whatsapp.net": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {}
+    },
+    "120363408915524357@g.us": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {},
+      "antilink": false
+    },
+    "120363421901865184@g.us": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {},
+      "antilink": false
+    },
+    "120363424289003326@g.us": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {},
+      "antilink": false
+    },
+    "120363407082631922@g.us": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {},
+      "antilink": false
+    },
+    "120363405595300327@g.us": {
+      "antilinkgc": false,
+      "welcome": false,
+      "goodbye": false,
+      "warn": {}
+    }
+  },
+  "game": {},
+  "settings": {
+    "254750611309": {
+      "anticall": false,
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": true,
+      "auto_ai_grup": false,
+      "goodbye": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "online": false,
+      "welcome": true,
+      "autoread": false,
+      "menuType": "externalImage",
+      "autoRecord": false
+    }
+  },
+  "sticker": {},
+  "others": {}
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "254750611309@s.whatsapp.net",
+      "fromMe": true,
+      "id": "A505C15F26BECCA6BE607B9BA6FB49EB"
+    },
+    "message": {
+      "protocolMessage": {
+        "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+        "peerDataOperationRequestResponseMessage": {
+          "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+          "stanzaId": "Z4PH-7BF654102FDD",
+          "peerDataOperationResult": [
+            {
+              "mediaUploadResult": "GENERAL_ERROR"
+            }
+          ]
+        }
+      }
+    },
+    "messageTimestamp": "1775647980",
+    "status": "SERVER_ACK",
+    "broadcast": false
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "key": {
+      "remoteJid": "254750611309@s.whatsapp.net",
+      "fromMe": true,
+      "id": "A590DF2E9676789EC5C4AF399F8943AA"
+    },
+    "message": {
+      "protocolMessage": {
+        "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+        "peerDataOperationRequestResponseMessage": {
+          "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+          "stanzaId": "Z4PH-D762CE057019",
+          "peerDataOperationResult": [
+            {
+              "mediaUploadResult": "SUCCESS",
+              "placeholderMessageResendResponse": {
+                "webMessageInfoBytes": "Cj0KFzEyMDM2MzQyMTkwMTg2NTE4NEBnLnVzEAAaIEFDRTMxOTczMjRCOUI2MkU4NjE3OTc1OUMxRjFCMTc0EsACMsABCl/wn5iFIHBvbGUgbGFraW5pLGh1a3UgdXNpcG90YWcgbXR1IG5vIG9uZSB3aWxsIGJvdGhlciB0byByZXBseSDwn6StdW5sZXNzIGthbWEgbmkga2l0dSBlbmdhZ2luZ1AAigFXCiBBQzgxRjYyMUNBOTkwMEY3MDEzRjc3QzYyNDZFMTZFNhITMjI2NzcwNzE2NTAwMjA4QGxpZBoPCg1XYWxhaSBpbWFnaW5lyAGAowWCAgQIABABuAQA6AEAmgJ6GiC7KLZospPAqsnUWh4KyFFit907piv7MkqKfR/CYnqnknpWCAESUgoXMTIwMzYzNDIxOTAxODY1MTg0QGcudXMQABogQUM3QzMxQjhCMjQ1MjZEQThFRjVBREVDRDYwODIzRTAiEzIyNjc3MDcxNjUwMDIwOEBsaWQY4PnYzgYqEzI2MzEyMzI2OTM1MzUzOUBsaWSKAyC7KLZospPAqsnUWh4KyFFit907piv7MkqKfR/CYnqnkvIDFgoUARFjmywAMDZaQJaJrkkv9+B9g/eIBAA="
+              }
+            }
+          ]
+        }
+      }
+    },
+    "messageTimestamp": "1775647984",
+    "status": "SERVER_ACK",
+    "broadcast": false
+  }
+]

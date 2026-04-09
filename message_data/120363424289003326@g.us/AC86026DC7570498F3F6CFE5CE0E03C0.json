@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363424289003326@g.us",
+      "fromMe": false,
+      "id": "AC86026DC7570498F3F6CFE5CE0E03C0",
+      "participant": "254743295519@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "hebu pic",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACFA8E186C02F692B0B7AC17C1BA9998",
+          "participant": "254786423192@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Sasa cna say🫴😂"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "XlSSYywBm9UZpM3Fmyy5AZO5Nk9ls8Un8pestmQ3OcA="
+      }
+    },
+    "messageTimestamp": "1775648008",
+    "participant": "254743295519@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Ruben😎🫡"
+  }
+]

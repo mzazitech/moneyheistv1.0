@@ -1,0 +1,29 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "ACB49844B5C80759F3B3F07A93F2296D",
+      "participant": "6283155510886@s.whatsapp.net"
+    },
+    "message": {
+      "conversation": "gua",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363408915524357@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwisqPuDBBAMGiC1DHbw25d2UgYkh22jwAyKgBE9G4wch7YE2rDRU/5i0iIhBYIgoJ3Ze5hUvBOeqxQWBkAQeak8Ot0jNkbgheFRdtwM"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775647946"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "gB3ZC0qsX5wySAC8CiLENaX1lIwuxjO/AoHk6vMDq1k="
+      }
+    },
+    "messageTimestamp": "1775647979",
+    "participant": "6283155510886@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Abellnothuman"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "key": {
+      "remoteJid": "254750611309@s.whatsapp.net",
+      "fromMe": true,
+      "id": "A568D78A5A4AB9EE4166E6C88B358553"
+    },
+    "message": {
+      "protocolMessage": {
+        "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+        "initialSecurityNotificationSettingSync": {
+          "securityNotificationEnabled": true
+        }
+      }
+    },
+    "messageTimestamp": "1775647956",
+    "status": "SERVER_ACK",
+    "broadcast": false,
+    "verifiedBizName": "Mzazi Tech Inc."
+  }
+]

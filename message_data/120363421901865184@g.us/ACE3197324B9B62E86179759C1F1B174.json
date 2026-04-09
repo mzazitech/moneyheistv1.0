@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363421901865184@g.us",
+      "fromMe": false,
+      "id": "ACE3197324B9B62E86179759C1F1B174",
+      "participant": "254116501799@s.whatsapp.net"
+    },
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363421901865184@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjZ4YupARAEGiCKYV942tVgY9fxrDQVPLRvZ3PTxhIgbvhPaRYkmbC5HSIhBVSuHcIkdGeb+xTiOtnrNrFLjcNAcG//huAfs7rFt6lC"
+      },
+      "extendedTextMessage": {
+        "text": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "AC81F621CA9900F7013F77C6246E16E6",
+          "participant": "254140303230@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Walai imagine"
+          },
+          "expiration": 86400,
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "UNKNOWN"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "JEG8zHAsZ9Pv5Q==",
+          "senderTimestamp": "1775115422",
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775647946"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "uyi2aLKTwKrJ1FoeCshRYrfdO6Yr+zJKin0fwmJ6p5I=",
+        "threadId": [
+          {
+            "threadType": "VIEW_REPLIES",
+            "threadKey": {
+              "remoteJid": "120363421901865184@g.us",
+              "fromMe": false,
+              "id": "AC7C31B8B24526DA8EF5ADECD60823E0",
+              "participant": "226770716500208@lid"
+            }
+          }
+        ]
+      }
+    },
+    "messageTimestamp": "1775647984",
+    "participant": "254116501799@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Cråîg✨"
+  }
+]

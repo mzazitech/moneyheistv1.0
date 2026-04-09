@@ -1,0 +1,41 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363405595300327@g.us",
+      "fromMe": false,
+      "id": "AC05A37F4854EC10D1A4909FD23843D7",
+      "participant": "254115377119@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Maybe nkupee spam acc😹hiyo huwa speani rahisi😹😹",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACC0F998578DFD072BDD358FCE7802A0",
+          "participant": "254703408274@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ujai nipea account yko adi 😂 😂"
+          },
+          "expiration": 86400,
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "UNKNOWN"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775647946"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "QcLj56B3jEolGyze/oDL4Gqxbb+OdaAOyEC3VSdPY+A="
+      }
+    },
+    "messageTimestamp": "1775648007",
+    "participant": "254115377119@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Marshally😃"
+  }
+]

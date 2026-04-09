@@ -1,0 +1,41 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363421901865184@g.us",
+      "fromMe": false,
+      "id": "AC19262338A6951EBA66A1F8BA90F166",
+      "participant": "254140303230@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Weee ni nyoks 🤣",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACE3197324B9B62E86179759C1F1B174",
+          "participant": "254116501799@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging"
+          },
+          "expiration": 86400,
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "UNKNOWN"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775647946"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "6YRupaR4dlax9tmPKTAnBU8gZ+xnpPSAGPKGj9yyEAk="
+      }
+    },
+    "messageTimestamp": "1775647991",
+    "participant": "254140303230@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "₩Boggi_ Boss 😎"
+  }
+]

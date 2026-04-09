@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "ACAD32995C8EAFFD7C7BB55FC06F3E0D",
+      "participant": "6283155510886@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "banyak jir di tt",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "AC5C68B96AE9486BEBFE11FD6917EEF1",
+          "participant": "6285769962915@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Caranya?"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "qAwoqFcy7ruEpuADYVumVcMnwEO6v+GGvxuZDTVaOoQ="
+      }
+    },
+    "messageTimestamp": "1775648006",
+    "participant": "6283155510886@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Abellnothuman"
+  }
+]

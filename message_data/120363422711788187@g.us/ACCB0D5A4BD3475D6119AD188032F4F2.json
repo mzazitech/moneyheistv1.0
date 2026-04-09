@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363422711788187@g.us",
+      "fromMe": false,
+      "id": "ACCB0D5A4BD3475D6119AD188032F4F2",
+      "participant": "254743349478@s.whatsapp.net"
+    },
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363422711788187@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwjc6MG6BhABGiC1eKSLY8ZgsU9cJYs2cQ724Re4NjrNCrrE+DGzc4OMWSIhBYZKIQj6i/xAQtihzcAsCU9QBtBW1dGSjq1I+MmeQ1dF"
+      },
+      "protocolMessage": {
+        "type": "GROUP_MEMBER_LABEL_CHANGE",
+        "memberLabel": {
+          "label": "",
+          "labelTimestamp": "1775647987"
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775640320"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "messageTimestamp": "1775648010",
+    "participant": "254743349478@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "AGENT 4.7.F 🫵🏿💦💥"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363408915524357@g.us",
+      "fromMe": false,
+      "id": "AC5C68B96AE9486BEBFE11FD6917EEF1",
+      "participant": "6285769962915@s.whatsapp.net"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Caranya?",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+          "participant": "6283155510886@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "am"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "2X31fhS77WQ4/2uo4uKfh/7KJgj1WaYxqzDDaWqlaC0="
+      }
+    },
+    "messageTimestamp": "1775647993",
+    "participant": "6285769962915@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕"
+  }
+]

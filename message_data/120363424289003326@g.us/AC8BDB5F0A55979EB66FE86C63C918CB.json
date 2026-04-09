@@ -1,0 +1,35 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363424289003326@g.us",
+      "fromMe": false,
+      "id": "AC8BDB5F0A55979EB66FE86C63C918CB",
+      "participant": "254743295519@s.whatsapp.net"
+    },
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363424289003326@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiGr5ahBBANGiAHwTvgfLH8DjtKChj74ocrjGOWFKTK7j/mw3T/dsimHCIhBa5NT5DrO/G0mVnhBtw757IM81MfWoSqJNr4z2D/49ID"
+      },
+      "extendedTextMessage": {
+        "text": "tulikosana lakini tususu hazikukosana ama aje😁",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ACCA490532E1C8E57159465B0A745349",
+          "participant": "254741256209@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Nko poa"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "messageSecret": "llr14Hx0mUYNf4yBqU8M9ULVBLjCpzA7lYAg/wYQZvA="
+      }
+    },
+    "messageTimestamp": "1775647992",
+    "participant": "254743295519@s.whatsapp.net",
+    "broadcast": false,
+    "pushName": "Ruben😎🫡"
+  }
+]

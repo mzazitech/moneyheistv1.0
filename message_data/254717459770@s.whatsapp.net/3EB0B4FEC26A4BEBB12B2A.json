@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "254717459770@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3EB0B4FEC26A4BEBB12B2A"
+    },
+    "message": {
+      "conversation": "link tenaa uniambie  number ingine",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "vSfdskFkhHOUGQ==",
+          "senderTimestamp": "1775642127",
+          "senderAccountType": "E2EE",
+          "receiverAccountType": "E2EE",
+          "recipientKeyHash": "KA1A1e2nw+eExA==",
+          "recipientTimestamp": "1775647946"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "oqL7lzTWy5+VDny2GQ1ex27ulXL6Q1TZbT0tKsXYIZ4=",
+        "limitSharingV2": {
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      }
+    },
+    "messageTimestamp": "1775647967",
+    "broadcast": false,
+    "pushName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗",
+    "verifiedBizName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗"
+  }
+]
