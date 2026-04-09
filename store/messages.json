@@ -1,0 +1,3414 @@
+{
+  "120363405595300327@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "ACC0F998578DFD072BDD358FCE7802A0",
+        "participant": "42451993686171@lid"
+      },
+      "messageTimestamp": 1775647950,
+      "pushName": "🫟Trenchkidd😈🦇🕸️",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "ACC0F998578DFD072BDD358FCE7802A0",
+        "participant": "254703408274@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647959,
+      "pushName": "🫟Trenchkidd😈🦇🕸️",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363405595300327@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwjGq/PiAhANGiD1bsAPO0ntBV8EZ5gMRnm5cz17QMEeVPV/31Z/KT+nqSIhBVJh87owqJoFNo6iimkXe3+8EbCq1GgkeSRKTmdrjL9z"
+        },
+        "extendedTextMessage": {
+          "text": "Ujai nipea account yko adi 😂 😂",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACEF04E6627AC6667FD08A803D88BCEF",
+            "participant": "254115377119@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "IG ndo me huwa most of time😹"
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "CLIVqmTKiuUK2X32wsHz2G53SlOg5tXzFk079RkURQ8=",
+          "limitSharingV2": {
+            "sharingLimited": true,
+            "trigger": "CHAT_SETTING",
+            "limitSharingSettingTimestamp": "1772308350129",
+            "initiatedByMe": false
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "ACD553B13FF95E4DBD716E39F6B0E872",
+        "participant": "40330313380066@lid"
+      },
+      "messageTimestamp": 1775647984,
+      "pushName": "Pinky🦋✨",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "ACF47F8224EAF891AB10AAD9065C93AD",
+        "participant": "165189173415963@lid"
+      },
+      "messageTimestamp": 1775647990,
+      "pushName": "BlessM",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "3EB05131EC0FA0235CF878",
+        "participant": "212794892886027@lid"
+      },
+      "messageTimestamp": 1775647995,
+      "pushName": "𒆜𝕭𝖑𝖆𝖈𝖐 𝕳𝖆𝖟𝖊𒆜†(𝚝𝚞𝚛𝚏 𝚋𝚑𝚞𝚜 ࿄",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "3EB0C7CE9F7C0B47AC6DDB",
+        "participant": "212794892886027@lid"
+      },
+      "messageTimestamp": 1775647996,
+      "pushName": "𒆜𝕭𝖑𝖆𝖈𝖐 𝕳𝖆𝖟𝖊𒆜†(𝚝𝚞𝚛𝚏 𝚋𝚑𝚞𝚜 ࿄",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "AC05A37F4854EC10D1A4909FD23843D7",
+        "participant": "240475973931187@lid"
+      },
+      "messageTimestamp": 1775648002,
+      "pushName": "Marshally😃",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "AC05A37F4854EC10D1A4909FD23843D7",
+        "participant": "254115377119@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648007,
+      "pushName": "Marshally😃",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Maybe nkupee spam acc😹hiyo huwa speani rahisi😹😹",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACC0F998578DFD072BDD358FCE7802A0",
+            "participant": "254703408274@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Ujai nipea account yko adi 😂 😂"
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "QcLj56B3jEolGyze/oDL4Gqxbb+OdaAOyEC3VSdPY+A="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "D9DB235287D0842E2A0A182A76533242",
+        "participant": "254742088480@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648008,
+      "pushName": "𓅂༎ᶦᵃᵐcarti᭄😅⃟❦ملِك༎ຶ𝗩",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363405595300327@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi/rZKnBxBpGiC9s4fOt5hZ0PyR1GbFX/O89DFW4zCEMTZ62SH+s0M31CIhBSs+lM4Oxm64wxFmsHyZYE3rfTn+Rs0F4kW2NXap9EIB"
+        },
+        "audioMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7114-24/669047040_2010053429619034_6635002240070712892_n.enc?ccb=11-4&oh=01_Q5Aa4QGvecJAp6DZxQgVVZR-5z9Wandadu-7nnZgCfaMu3ul_A&oe=69FD9F2B&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "audio/mpeg",
+          "fileSha256": "mMMEiukxFczqx8WvhCRh9BrJYVj7Cx0E2NgJ8L0eDAU=",
+          "fileLength": "6248108",
+          "seconds": 390,
+          "mediaKey": "PzSIX3e7iGzQ24+NoFMVmbh49pFKYiKyNN+XbTCedPM=",
+          "fileEncSha256": "65A9NzjAMYa8MISnzdizHZP0BROshLYwGSOwClQd6EI=",
+          "directPath": "/v/t62.7114-24/669047040_2010053429619034_6635002240070712892_n.enc?ccb=11-4&oh=01_Q5Aa4QGvecJAp6DZxQgVVZR-5z9Wandadu-7nnZgCfaMu3ul_A&oe=69FD9F2B&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1775648005",
+          "contextInfo": {
+            "stanzaId": "ACF47F8224EAF891AB10AAD9065C93AD",
+            "participant": "165189173415963@lid",
+            "quotedMessage": {
+              "extendedTextMessage": {
+                "text": ".play Adala na ngai",
+                "previewType": "NONE",
+                "inviteLinkGroupTypeV2": "DEFAULT"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363405595300327@g.us",
+        "fromMe": false,
+        "id": "AC25B715167C7C321D505BC5B4ECE8AB",
+        "participant": "254115377119@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648011,
+      "pushName": "Marshally😃",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363405595300327@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwjM3bTJAhAIGiAYS8UPlkxj4FIH6lPw8IzJYSQgqSX9KKAo40AbWUlnEiIhBRIf9RJpu5/Pb8zWPqD1hRY/YZsqQ5sOWjtHD91qHvol"
+        },
+        "stickerMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/617235176_3136771829838368_655402377153720981_n.enc?ccb=11-4&oh=01_Q5Aa4QGnxR1oja_Yn_Tcx1zalQrB-NAiD_wxjHypQWU8TMhdXQ&oe=69FDA71C&_nc_sid=5e03e0&mms3=true",
+          "fileSha256": "zlGZGNX6whgfYpcMhJG0tYHDWj8pIsSexe4pKzNGaKI=",
+          "fileEncSha256": "1+Pzk/9vWaAPq4rerOs7wh7jNd14P93dPsCFOmwcH2E=",
+          "mediaKey": "5GCQLNgbKTDO+PkYXw5yXxLg8SNmPvMt1yoyuUWdKgA=",
+          "mimetype": "image/webp",
+          "height": 64,
+          "width": 64,
+          "directPath": "/v/t62.15575-24/617235176_3136771829838368_655402377153720981_n.enc?ccb=11-4&oh=01_Q5Aa4QGnxR1oja_Yn_Tcx1zalQrB-NAiD_wxjHypQWU8TMhdXQ&oe=69FDA71C&_nc_sid=5e03e0",
+          "fileLength": "7240",
+          "mediaKeyTimestamp": "1775646195",
+          "isAnimated": false,
+          "contextInfo": {
+            "stanzaId": "ACD553B13FF95E4DBD716E39F6B0E872",
+            "participant": "40330313380066@lid",
+            "quotedMessage": {
+              "stickerMessage": {
+                "url": "https://mmg.whatsapp.net/v/t62.15575-24/560148609_26583334738022714_3590080087473862649_n.enc?ccb=11-4&oh=01_Q5Aa4QESwaThkpz3UBu4EFOMPozdmvw0K_Pw0Rb6bhChWkqPsg&oe=69FDB3E9&_nc_sid=5e03e0&mms3=true",
+                "fileSha256": "Ki054HiVB25vrOZxmtl4VGTgUJJldswo/o7+MhkRfWQ=",
+                "fileEncSha256": "2i20Hs2NiISEXTFnMKiEvOMpbLoxp8SIvol0P0hIg20=",
+                "mediaKey": "QG54yOWvzLiWZAwuabnc+KXl87hlWLD1EiLh+5JiNdA=",
+                "mimetype": "image/webp",
+                "height": 64,
+                "width": 64,
+                "directPath": "/v/t62.15575-24/560148609_26583334738022714_3590080087473862649_n.enc?ccb=11-4&oh=01_Q5Aa4QESwaThkpz3UBu4EFOMPozdmvw0K_Pw0Rb6bhChWkqPsg&oe=69FDB3E9&_nc_sid=5e03e0",
+                "fileLength": "495884",
+                "mediaKeyTimestamp": "1775647857",
+                "firstFrameLength": 495660,
+                "firstFrameSidecar": "7ULbMMcTIoW6og==",
+                "isAnimated": true,
+                "stickerSentTs": "1775647857207",
+                "isAvatar": false,
+                "isAiSticker": false,
+                "isLottie": false
+              }
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "stickerSentTs": "1775648010970",
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false
+        },
+        "messageContextInfo": {
+          "messageSecret": "gZ0zxWEnK7v1MY/GGEwZNtz8t4e2YvlWufipq0yBTxE="
+        }
+      }
+    }
+  ],
+  "254750611309@s.whatsapp.net": [
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A568D78A5A4AB9EE4166E6C88B358553"
+      },
+      "messageTimestamp": 1775647956,
+      "broadcast": false,
+      "status": 2,
+      "verifiedBizName": "Mzazi Tech Inc.",
+      "message": {
+        "protocolMessage": {
+          "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+          "initialSecurityNotificationSettingSync": {
+            "securityNotificationEnabled": true
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5FA6C4D117A91C1D647289E251C05A3"
+      },
+      "messageTimestamp": 1775647957,
+      "broadcast": false,
+      "status": 2,
+      "verifiedBizName": "Mzazi Tech Inc.",
+      "message": {
+        "protocolMessage": {
+          "type": "APP_STATE_SYNC_KEY_SHARE",
+          "appStateSyncKeyShare": {
+            "keys": [
+              {
+                "keyId": {
+                  "keyId": "AAAAAJp4"
+                },
+                "keyData": {
+                  "keyData": "4kMfst0USfLDhEvWDE48FfDALi8gBjhri65be95uFt0=",
+                  "fingerprint": {
+                    "rawId": 157822901,
+                    "currentIndex": 1,
+                    "deviceIndexes": [
+                      0,
+                      1
+                    ]
+                  },
+                  "timestamp": "1775640350263"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A55680F718AAC8D588B19364C1772772"
+      },
+      "messageTimestamp": 1775647963,
+      "broadcast": false,
+      "status": 2,
+      "verifiedBizName": "Mzazi Tech Inc.",
+      "message": {
+        "protocolMessage": {
+          "type": "HISTORY_SYNC_NOTIFICATION",
+          "historySyncNotification": {
+            "fileSha256": "1Kq6PCA21C721TWQkMlMDJvVF6DfjzzXN20wbYBuWzk=",
+            "fileLength": "321975",
+            "mediaKey": "BSwtprTreEilCtJmRtPpVSX+DsfiYZ7IlsVo8Ly4UzU=",
+            "fileEncSha256": "4dnYO0hVHTSLf3OuUytQFp3qjmURnG8mJwgj04dQVsk=",
+            "directPath": "/v/t62.31111-24/539070087_941469321576489_3540097807545927627_n.enc?ccb=11-4&oh=01_Q5Aa4QFo3Osv6reMcEHL132fIhcTDmNvf7-o8kN1b2uRDbN9aQ&oe=69FDA0A3&_nc_sid=5e03e0",
+            "syncType": "INITIAL_BOOTSTRAP",
+            "encHandle": "AQJaV1r_gKAXEmPye-QVbHX7q-8ZFp0bfh8d-qDs2Tp7UBFaAzrdBNF-RfcPIEcV4JzNUVkwxoVAA-n2kEnJrbsbYM5wjCREq6CDkEqhjSwcJyiMTy_VoTWdU-wvt4uGIxI"
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5A7A0A81B647166791CC8FC5F318672"
+      },
+      "messageTimestamp": 1775647974,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-6A3132661BC2",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "SUCCESS",
+                "placeholderMessageResendResponse": {
+                  "webMessageInfoBytes": "Cj0KFzEyMDM2MzQwODkxNTUyNDM1N0BnLnVzEAAaIEFDQzI1MkM4OEJFQkFGREExNjZCNDk1NTg3MzQyNTVDEpsCMpsBCgtneWEgc2VuZGlyaVAAigGFAQogQUM2NzUzRkFCODU2NThCNTM4MTJFN0Q1ODc1RjhENTUSEzIzODQ5MTUxNDQ2NjM1MkBsaWQaSTJHCihAMjYzMzIwODIxMDg0MjY2IHlnIGJraW4gbG9nbyBzaWFwYSBiZWw/UACKARV6EzI2MzMyMDgyMTA4NDI2NkBsaWToAQC4BADoAQCaAnoaIATw63KC2mntd21NRDUN7Fi/l9kwmilaBswhzQoF0xGcelYIARJSChcxMjAzNjM0MDg5MTU1MjQzNTdAZy51cxAAGiBBQzY3NTNGQUI4NTY1OEI1MzgxMkU3RDU4NzVGOEQ1NSITMjM4NDkxNTE0NDY2MzUyQGxpZBjW+djOBioTMjYzMzIwODIxMDg0MjY2QGxpZIoDIATw63KC2mntd21NRDUN7Fi/l9kwmilaBswhzQoF0xGc8gMWChQBEfokPc6grpsdAXi/lax6LmVhEogEAA=="
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A505C15F26BECCA6BE607B9BA6FB49EB"
+      },
+      "messageTimestamp": 1775647980,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-7BF654102FDD",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "GENERAL_ERROR"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A562F0D3DB41618DE3EA34956990BD3D"
+      },
+      "messageTimestamp": 1775647980,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-955E933B3019",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "SUCCESS",
+                "placeholderMessageResendResponse": {
+                  "webMessageInfoBytes": "Cj0KFzEyMDM2MzQwODkxNTUyNDM1N0BnLnVzEAAaIEFDQjQ5ODQ0QjVDODA3NTlGM0IzRjA3QTkzRjIyOTZEEioKA2d1YZoCIhoggB3ZC0qsX5wySAC8CiLENaX1lIwuxjO/AoHk6vMDq1kY1/nYzgYqEzI2MzMyMDgyMTA4NDI2NkBsaWSKAyCAHdkLSqxfnDJIALwKIsQ1pfWUjC7GM78CgeTq8wOrWfIDFgoUARH40YGfeTVafZfcNjK3xsZbDRyIBAA="
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5A8A1547E4B5537A8A0C6DC5DAD8050"
+      },
+      "messageTimestamp": 1775647981,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "HISTORY_SYNC_NOTIFICATION",
+          "historySyncNotification": {
+            "fileSha256": "LK5H4paWLMvgbvoX6X3FN/OfQaWrHazwNut3LNhrQt8=",
+            "fileLength": "1838059",
+            "mediaKey": "7HC/+tHYyTPiekqTiWclCF1jZveNEgSfUaKOoH4U99o=",
+            "fileEncSha256": "DGHFfXteoCtz3Dw1w26i/lLoF4LjWBmP7RIKlxeQy7I=",
+            "directPath": "/v/t62.31111-24/564993853_1065051800029779_5899523339223546098_n.enc?ccb=11-4&oh=01_Q5Aa4QGb7mXemW2F7BTn6DNBDKYMlrEOEO1qiGRWu223qC4D_A&oe=69FDAD1F&_nc_sid=5e03e0",
+            "syncType": "INITIAL_STATUS_V3",
+            "encHandle": "AQJ2PGIy9PIK92KFLIlonwmipvB14Do_95U4Ebs_-ay8hKOxkIUuK8-ebl_PT5IelJre-tIbYesYLX5yul7MVD3rLlVPaoqDWwUhYS7F8kg_tcFHbN-DLIYQPCiw7wUsWrw"
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A590DF2E9676789EC5C4AF399F8943AA"
+      },
+      "messageTimestamp": 1775647984,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-D762CE057019",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "SUCCESS",
+                "placeholderMessageResendResponse": {
+                  "webMessageInfoBytes": "Cj0KFzEyMDM2MzQyMTkwMTg2NTE4NEBnLnVzEAAaIEFDRTMxOTczMjRCOUI2MkU4NjE3OTc1OUMxRjFCMTc0EsACMsABCl/wn5iFIHBvbGUgbGFraW5pLGh1a3UgdXNpcG90YWcgbXR1IG5vIG9uZSB3aWxsIGJvdGhlciB0byByZXBseSDwn6StdW5sZXNzIGthbWEgbmkga2l0dSBlbmdhZ2luZ1AAigFXCiBBQzgxRjYyMUNBOTkwMEY3MDEzRjc3QzYyNDZFMTZFNhITMjI2NzcwNzE2NTAwMjA4QGxpZBoPCg1XYWxhaSBpbWFnaW5lyAGAowWCAgQIABABuAQA6AEAmgJ6GiC7KLZospPAqsnUWh4KyFFit907piv7MkqKfR/CYnqnknpWCAESUgoXMTIwMzYzNDIxOTAxODY1MTg0QGcudXMQABogQUM3QzMxQjhCMjQ1MjZEQThFRjVBREVDRDYwODIzRTAiEzIyNjc3MDcxNjUwMDIwOEBsaWQY4PnYzgYqEzI2MzEyMzI2OTM1MzUzOUBsaWSKAyC7KLZospPAqsnUWh4KyFFit907piv7MkqKfR/CYnqnkvIDFgoUARFjmywAMDZaQJaJrkkv9+B9g/eIBAA="
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5B25F92356B06DDEBC823FD3B520248"
+      },
+      "messageTimestamp": 1775647990,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-BE0B937BC45C",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "SUCCESS",
+                "placeholderMessageResendResponse": {
+                  "webMessageInfoBytes": "CjkKEzEwMzAyMzk2Nzc4NTA5NkBsaWQQARogQTU2RjhGODk3M0E3QUFENjQ2QTU5MjVFMUMxREY4RjgSwAEyZAoEc2F3YVAAigFWChYzRUIwQjRGRUMyNkE0QkVCQjEyQjJBEhMxMDMwMjM5Njc3ODUwOTZAbGlkGiQKImxpbmsgdGVuYWEgdW5pYW1iaWUgIG51bWJlciBpbmdpbmW4BADoAQCaAlcaIFnmuwZzRlhwL55xTwX22PkujI+186cIEP9Qpt+nCNeCejMIARIvChMxMDMwMjM5Njc3ODUwOTZAbGlkEAAaFjNFQjBCNEZFQzI2QTRCRUJCMTJCMkEY4/nYzgYgBMICIwoTMTAzMDIzOTY3Nzg1MDk2QGxpZBDj+djOBhjk+djOBiAAigMgWea7BnNGWHAvnnFPBfbY+S6Mj7XzpwgQ/1Cm36cI14KaAxsyNTQ3NTA2MTEzMDlAcy53aGF0c2FwcC5uZXSIBAA="
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A58209E4DE57751765C03184F2DB9CA4"
+      },
+      "messageTimestamp": 1775647995,
+      "broadcast": false,
+      "status": 2,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "ENOENT: no such file or directory, open '/home/runner/workspace/trash_baileys/session_254750611309/session-254750611309.0.json'"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "254750611309@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5D76CE79D19F6AA6E5E5A6B6A06C74B"
+      },
+      "messageTimestamp": 1775648000,
+      "broadcast": false,
+      "status": 2,
+      "message": {
+        "protocolMessage": {
+          "type": "PEER_DATA_OPERATION_REQUEST_RESPONSE_MESSAGE",
+          "peerDataOperationRequestResponseMessage": {
+            "peerDataOperationRequestType": "PLACEHOLDER_MESSAGE_RESEND",
+            "stanzaId": "Z4PH-9AAEB8007845",
+            "peerDataOperationResult": [
+              {
+                "mediaUploadResult": "SUCCESS",
+                "placeholderMessageResendResponse": {
+                  "webMessageInfoBytes": "CjgKEjg4OTI3OTY4OTkzMjk2QGxpZBABGiBBNUQ5QUY0RDQxRkUxRDJBMzMwMjMwNzk0MTgwMDQ1QxJgMjkKBi5temF6aVAAigEp6gEWZ2xvYmFsX3NlYXJjaF9uZXdfY2hhdPIBCHdoYXRzYXBw+AGRgxzoAQCaAiIaIB86K6zE8YcOW0bV3riU20Qdg+6AgM6Y8H5vKTk+nb+oGOf52M4GIAQw6fnYzgaKAyAfOiusxPGHDltG1d64lNtEHYPugIDOmPB+byk5Pp2/qJoDGzI1NDc1MDYxMTMwOUBzLndoYXRzYXBwLm5ldIgEAA=="
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "120363408915524357@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACC252C88BEBAFDA166B49558734255C",
+        "participant": "6283155510886@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647958,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "gya sendiri",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "AC6753FAB85658B53812E7D5875F8D55",
+            "participant": "6285769962915@s.whatsapp.net",
+            "quotedMessage": {
+              "extendedTextMessage": {
+                "text": "@263320821084266 yg bkin logo siapa bel?",
+                "previewType": "NONE",
+                "contextInfo": {
+                  "mentionedJid": [
+                    "263320821084266@lid"
+                  ]
+                },
+                "inviteLinkGroupTypeV2": "DEFAULT"
+              }
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "BPDrcoLaae13bU1ENQ3sWL+X2TCaKVoGzCHNCgXTEZw="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACB49844B5C80759F3B3F07A93F2296D"
+      },
+      "messageTimestamp": 1775647959,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "conversation": "gua",
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "gB3ZC0qsX5wySAC8CiLENaX1lIwuxjO/AoHk6vMDq1k="
+        }
+      },
+      "update": {
+        "message": {
+          "conversation": "gua",
+          "messageContextInfo": {
+            "messageSecret": "gB3ZC0qsX5wySAC8CiLENaX1lIwuxjO/AoHk6vMDq1k="
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACC252C88BEBAFDA166B49558734255C",
+        "participant": "6283155510886@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647974,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "gya sendiri",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "AC6753FAB85658B53812E7D5875F8D55",
+            "participant": "238491514466352@lid",
+            "quotedMessage": {
+              "extendedTextMessage": {
+                "text": "@263320821084266 yg bkin logo siapa bel?",
+                "previewType": "NONE",
+                "contextInfo": {
+                  "mentionedJid": [
+                    "263320821084266@lid"
+                  ]
+                },
+                "inviteLinkGroupTypeV2": "DEFAULT"
+              }
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "BPDrcoLaae13bU1ENQ3sWL+X2TCaKVoGzCHNCgXTEZw=",
+          "threadId": [
+            {
+              "threadType": "VIEW_REPLIES",
+              "threadKey": {
+                "remoteJid": "120363408915524357@g.us",
+                "fromMe": false,
+                "id": "AC6753FAB85658B53812E7D5875F8D55",
+                "participant": "238491514466352@lid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACB49844B5C80759F3B3F07A93F2296D",
+        "participant": "6283155510886@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647979,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "conversation": "gua",
+        "senderKeyDistributionMessage": {
+          "groupId": "120363408915524357@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwisqPuDBBAMGiC1DHbw25d2UgYkh22jwAyKgBE9G4wch7YE2rDRU/5i0iIhBYIgoJ3Ze5hUvBOeqxQWBkAQeak8Ot0jNkbgheFRdtwM"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "gB3ZC0qsX5wySAC8CiLENaX1lIwuxjO/AoHk6vMDq1k="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACEE13B2B13B83297439B19BEB058D90",
+        "participant": "6285769962915@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647979,
+      "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363408915524357@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwjet/lmEAEaIAGWg7e1IktlPQDKIdfS92IPn8J0Lvu4GhyQe7FKCoa4IiEFkjRrCjUbUx7NI2e4d1UVIy3bYsLEVH/AOudpO39s7QU="
+        },
+        "extendedTextMessage": {
+          "text": "pake apk apaan?",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACC252C88BEBAFDA166B49558734255C",
+            "participant": "6283155510886@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "gya sendiri"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "UayqWfAAUrDp7R3FQu4tle+6t3WvAXXBoa49ICTcYfk="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+        "participant": "6283155510886@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647985,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363408915524357@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwisqPuDBBAMGiC1DHbw25d2UgYkh22jwAyKgBE9G4wch7YE2rDRU/5i0iIhBYIgoJ3Ze5hUvBOeqxQWBkAQeak8Ot0jNkbgheFRdtwM"
+        },
+        "extendedTextMessage": {
+          "text": "am",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACEE13B2B13B83297439B19BEB058D90",
+            "participant": "6285769962915@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "pake apk apaan?"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "WeTsuJUe1keszDFGrdROeC+dK96ICdPUKgCHX2hYd+c="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "AC5C68B96AE9486BEBFE11FD6917EEF1",
+        "participant": "6285769962915@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647993,
+      "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Caranya?",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+            "participant": "6283155510886@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "am"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "2X31fhS77WQ4/2uo4uKfh/7KJgj1WaYxqzDDaWqlaC0="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "AC65CA3B4E3088246FA3809593E09DEC",
+        "participant": "6285769962915@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648005,
+      "pushName": "𝟏𝟕𝐀𝐋/𝐃𝐗𝐍/𝐂𝐀𝐓𝐀𝐋/𝐑𝐎𝐑/𝐕𝐋𝐕",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Kalau order logo di lu brpa?",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACF72CBDCA562A3E3DB941A3198BF8BF",
+            "participant": "6283155510886@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "am"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "Q2jlfsTbHjN5OUYlIflxNnTRpnDR4ZkkkCPsDAI4weo="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363408915524357@g.us",
+        "fromMe": false,
+        "id": "ACAD32995C8EAFFD7C7BB55FC06F3E0D",
+        "participant": "6283155510886@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648006,
+      "pushName": "Abellnothuman",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "banyak jir di tt",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "AC5C68B96AE9486BEBFE11FD6917EEF1",
+            "participant": "6285769962915@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Caranya?"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "qAwoqFcy7ruEpuADYVumVcMnwEO6v+GGvxuZDTVaOoQ="
+        }
+      }
+    }
+  ],
+  "120363425935906312@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363425935906312@g.us",
+        "fromMe": false,
+        "id": "A52D14112AC054E110BCA84DC6B284D8",
+        "participant": "254140868509@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647961,
+      "pushName": "_kalito_",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363425935906312@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwjJ3rvbBhABGiAB2KwwRNITgYIu/AJackanaa/oA2QGOnxa28/2QEJ3lCIhBQmE43ZFaRvTiipMw9+eMrkg6u1diqTO+s5dQIP2Scc4"
+        },
+        "extendedTextMessage": {
+          "text": "Wueee 😂😂",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACE40AED4ED8EA6394D49017F7BE001C",
+            "participant": "254762291854@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Ata sijaingia"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "qUR3pODpgZbunws1dJXjKiKjr7uPuHzMh+iekaDc+1k=",
+          "threadId": [
+            {
+              "threadType": "VIEW_REPLIES",
+              "threadKey": {
+                "remoteJid": "120363425935906312@g.us",
+                "fromMe": false,
+                "id": "ACF48BC667EC5B4D5CF33AA4DCFA4B70",
+                "participant": "2603438108802@lid"
+              }
+            }
+          ]
+        }
+      },
+      "verifiedBizName": "_kalito_"
+    },
+    {
+      "key": {
+        "remoteJid": "120363425935906312@g.us",
+        "fromMe": false,
+        "id": "ACEE6F3BBC6EFD2B5325CC04A961D130",
+        "participant": "2603438108802@lid"
+      },
+      "messageTimestamp": 1775648004,
+      "pushName": "❤️‍🔥KASHII❤️‍🔥",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363425935906312@g.us",
+        "fromMe": false,
+        "id": "ACEE6F3BBC6EFD2B5325CC04A961D130",
+        "participant": "254762291854@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648007,
+      "pushName": "❤️‍🔥KASHII❤️‍🔥",
+      "broadcast": false,
+      "message": {
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7118-24/566227582_1674553727302668_2318977973875336257_n.enc?ccb=11-4&oh=01_Q5Aa4QEOYN_TI3vIU7e6tC6jpsCaOXZSsNyc3YCqxOD7-daJjA&oe=69FDC556&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "95n09b15cvt2Xdq4VG/6QSi7x6UAIFKyMRYvI0AQEdM=",
+          "fileLength": "16372",
+          "height": 185,
+          "width": 720,
+          "mediaKey": "B1ydtuX2Lt6kDQMB1zwSmYXZB6/BZyY+SSvsWZqBBU4=",
+          "fileEncSha256": "k6q8K9sw4txWsp8oxgkXZYxwNf9blYo8AqgxFu2FC9I=",
+          "directPath": "/v/t62.7118-24/566227582_1674553727302668_2318977973875336257_n.enc?ccb=11-4&oh=01_Q5Aa4QEOYN_TI3vIU7e6tC6jpsCaOXZSsNyc3YCqxOD7-daJjA&oe=69FDC556&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1775648003",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIABMASAMBIgACEQEDEQH/xAAtAAEAAgMBAAAAAAAAAAAAAAAAAgUBAwQGAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAAt/O+hpar26Ma5SyapuguHcqHIWcwjIG4WyFn/8QAJRAAAQMEAgEEAwAAAAAAAAAAAgABAwQRElIUUSEQEyIxMkFC/9oACAEBAAE/ACu7KtAmndmTDI3axPp1jIrFq6u6jZzlBn7UcUkZ+PxTgSqvhUlk10Uh3+17p9piPZZG/wDSGwk10DgVRHi37Vlk6qKeKQsiHyuHBquHBquHBquHBquHBqoaWETZ2H0//8QAGREAAwADAAAAAAAAAAAAAAAAAAERECAh/9oACAECAQE/AHm9kIPX/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEgEf/aAAgBAwEBPwCNFP8A/9k=",
+          "scansSidecar": "+JKmkDFvcr5GZh1Zu3Yn6zwkmssyDCCv+MgmG+V8iVuuNLOfiY3UsQ==",
+          "scanLengths": [
+            1641,
+            6911,
+            3181,
+            4639
+          ],
+          "midQualityFileSha256": "4Z+t8IgX5/Ud3XXj4TgJWk3J8Aoel+jl9J/6cMkTqcw="
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderTimestamp": "1775331352",
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "vzYeu5jp5snFVLY8TPz+cL6qNRQ5RPb4Z7HTMYFWGAE="
+        }
+      }
+    }
+  ],
+  "120363407082631922@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "A59B5DDC3D9D31497D36E3A44F4DE885",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647961,
+      "pushName": "Boy",
+      "broadcast": false,
+      "message": {
+        "conversation": "+hidetag https://chat.whatsapp.com/IaKHcieDruL20ROwE9kwXX?mode=gi_t",
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "e8d1xAkL+LDckA==",
+            "senderTimestamp": "1774771970",
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "ZEV44RSklSedFwZzKp+tkTBEyy7aDl+fX46r6oLG9t4=",
+          "limitSharingV2": {
+            "sharingLimited": true,
+            "trigger": "CHAT_SETTING",
+            "limitSharingSettingTimestamp": "1775499737729",
+            "initiatedByMe": false
+          }
+        }
+      },
+      "verifiedBizName": "Boy",
+      "reactions": [
+        {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "BAE5-9A3BD65A69BE42C08E",
+            "participant": "255799680949@s.whatsapp.net"
+          },
+          "text": "🎤",
+          "senderTimestampMs": {
+            "low": 1826465222,
+            "high": 413,
+            "unsigned": false
+          }
+        }
+      ],
+      "update": {
+        "message": null,
+        "messageStubType": 1,
+        "key": {
+          "remoteJid": "120363407082631922@g.us",
+          "fromMe": false,
+          "id": "AC1D1376D00BB1B8E29D3F98BFE74CFC",
+          "participant": "254104229247@s.whatsapp.net"
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "BAE5-6AD859FE61108EF29F",
+        "participant": "255799680949@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647962,
+      "pushName": "Boy",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363407082631922@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi6mch1EAAaIKUlHELJEWer9skC0tYarVeRIzl/mic5GiHglMKdex2oIiEFJUU/gKnJeEn20u6yxPxVsofcRMl6JIaRvnHx/r0Mpwo="
+        },
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "A59B5DDC3D9D31497D36E3A44F4DE885",
+            "participant": "255799680949@s.whatsapp.net"
+          },
+          "text": "🎤",
+          "senderTimestampMs": "1775647956691"
+        }
+      },
+      "verifiedBizName": "Boy"
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "BAE5-B7BC3F121E4123901A",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647962,
+      "pushName": "Boy",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363407082631922@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi6mch1EAEaIE3rpBAAfztyDm7GnR45wlaiawOVq4C55RYiyow5lzY8IiEFJUU/gKnJeEn20u6yxPxVsofcRMl6JIaRvnHx/r0Mpwo="
+        },
+        "extendedTextMessage": {
+          "text": "https://chat.whatsapp.com/IaKHcieDruL20ROwE9kwXX?mode=gi_t",
+          "matchedText": "https://chat.whatsapp.com/IaKHcieDruL20ROwE9kwXX?mode=gi_t",
+          "description": "WhatsApp Group Invite",
+          "title": "MPOST ❤️ UMPENDAYE 💓",
+          "previewType": "NONE",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAoEAACAQQBAwMEAwAAAAAAAAABAgMABBESIQUUMRNBUQYVcZEiYfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQA/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMxEiEyQv/aAAwDAQACEQMRAD8AY9EkYWHqS4kfDSRh+dTyc/mo/t5mla5kvZFfO2/vn91RywT2VqO1cyMhw2q8a49qnYi/dhJtlgYgl9MgY/NSQ5RuytqL7H3cQ/bIJb2eMFhk5GN2+cUmumUw7xyK8fKgjkVvHFDdh7qcI8bAiNGBGiDgYpDFcvbyOqZ9Nj/KM+CK0cUXrYM20XdsBLcQOS2yuMYNFddgRwhYDXVgKC6eNryMf3zW/wBTS+laDB5bKj/fFOXlg/SRIWUdw8U0bNIUjOsQzgcUFH0+5mJeTCDyS55/XmnMVwIUyq8L5ri5kXugRyjpng+9LU6tj5YW6TP/2Q==",
+          "contextInfo": {
+            "mentionedJid": [
+              "254711828665@s.whatsapp.net",
+              "254110494321@s.whatsapp.net",
+              "254107060505@s.whatsapp.net",
+              "254717614830@s.whatsapp.net",
+              "254117069363@s.whatsapp.net",
+              "254762911098@s.whatsapp.net",
+              "254796569273@s.whatsapp.net",
+              "254728669524@s.whatsapp.net",
+              "254745792969@s.whatsapp.net",
+              "254117344293@s.whatsapp.net",
+              "254707904006@s.whatsapp.net",
+              "254798629796@s.whatsapp.net",
+              "254748389171@s.whatsapp.net",
+              "254769027650@s.whatsapp.net",
+              "254741731727@s.whatsapp.net",
+              "254114223170@s.whatsapp.net",
+              "254711694257@s.whatsapp.net",
+              "254717975767@s.whatsapp.net",
+              "254740859674@s.whatsapp.net",
+              "254790144458@s.whatsapp.net",
+              "254754661492@s.whatsapp.net",
+              "254719472596@s.whatsapp.net",
+              "254789465318@s.whatsapp.net",
+              "254758560723@s.whatsapp.net",
+              "254710431031@s.whatsapp.net",
+              "923264185571@s.whatsapp.net",
+              "255765065926@s.whatsapp.net",
+              "254702225664@s.whatsapp.net",
+              "254112303531@s.whatsapp.net",
+              "254769513504@s.whatsapp.net",
+              "254702636087@s.whatsapp.net",
+              "254706613841@s.whatsapp.net",
+              "254741467764@s.whatsapp.net",
+              "254746941736@s.whatsapp.net",
+              "254743270076@s.whatsapp.net",
+              "254726796001@s.whatsapp.net",
+              "254783952607@s.whatsapp.net",
+              "254756109399@s.whatsapp.net",
+              "255799351104@s.whatsapp.net",
+              "254751402689@s.whatsapp.net",
+              "254712489453@s.whatsapp.net",
+              "254707796075@s.whatsapp.net",
+              "254740831999@s.whatsapp.net",
+              "254799638688@s.whatsapp.net",
+              "255742665621@s.whatsapp.net",
+              "254716169191@s.whatsapp.net",
+              "254752435806@s.whatsapp.net",
+              "254705863021@s.whatsapp.net",
+              "254792129594@s.whatsapp.net",
+              "254756510405@s.whatsapp.net",
+              "254114186210@s.whatsapp.net",
+              "254758500921@s.whatsapp.net",
+              "254140223773@s.whatsapp.net",
+              "254114878841@s.whatsapp.net",
+              "254768305669@s.whatsapp.net",
+              "254745992674@s.whatsapp.net",
+              "254743469765@s.whatsapp.net",
+              "254758458415@s.whatsapp.net",
+              "254110276162@s.whatsapp.net",
+              "254748717276@s.whatsapp.net",
+              "255787058313@s.whatsapp.net",
+              "254106216051@s.whatsapp.net",
+              "254734321329@s.whatsapp.net",
+              "254782402010@s.whatsapp.net",
+              "254103360502@s.whatsapp.net",
+              "254745461828@s.whatsapp.net",
+              "254107977336@s.whatsapp.net",
+              "254769014279@s.whatsapp.net",
+              "254740734269@s.whatsapp.net",
+              "966535997964@s.whatsapp.net",
+              "254797586536@s.whatsapp.net",
+              "254799950301@s.whatsapp.net",
+              "254717625358@s.whatsapp.net",
+              "254716395010@s.whatsapp.net",
+              "254728248119@s.whatsapp.net",
+              "254745939958@s.whatsapp.net",
+              "254115302647@s.whatsapp.net",
+              "254758525409@s.whatsapp.net",
+              "254758217969@s.whatsapp.net",
+              "254792072852@s.whatsapp.net",
+              "254781386383@s.whatsapp.net",
+              "254750349563@s.whatsapp.net",
+              "254794532462@s.whatsapp.net",
+              "254793585961@s.whatsapp.net",
+              "254728890863@s.whatsapp.net",
+              "254703972390@s.whatsapp.net",
+              "254788030207@s.whatsapp.net",
+              "254720709730@s.whatsapp.net",
+              "254748209015@s.whatsapp.net",
+              "254768549317@s.whatsapp.net",
+              "254792370639@s.whatsapp.net",
+              "254743585391@s.whatsapp.net",
+              "254113735915@s.whatsapp.net",
+              "255774006997@s.whatsapp.net",
+              "254707275182@s.whatsapp.net",
+              "254107792811@s.whatsapp.net",
+              "254792586226@s.whatsapp.net",
+              "254102341773@s.whatsapp.net",
+              "254751405584@s.whatsapp.net",
+              "254791926715@s.whatsapp.net",
+              "254118954194@s.whatsapp.net",
+              "254706031447@s.whatsapp.net",
+              "254721557690@s.whatsapp.net",
+              "254743538817@s.whatsapp.net",
+              "254781820655@s.whatsapp.net",
+              "254727640711@s.whatsapp.net",
+              "254757876268@s.whatsapp.net",
+              "254780927260@s.whatsapp.net",
+              "254726874515@s.whatsapp.net",
+              "254703713504@s.whatsapp.net",
+              "254101762798@s.whatsapp.net",
+              "254100377267@s.whatsapp.net",
+              "255745697749@s.whatsapp.net",
+              "254727205061@s.whatsapp.net",
+              "254739596218@s.whatsapp.net",
+              "254787025490@s.whatsapp.net",
+              "254714170424@s.whatsapp.net",
+              "254717960320@s.whatsapp.net",
+              "254714896051@s.whatsapp.net",
+              "254722255194@s.whatsapp.net",
+              "254741878431@s.whatsapp.net",
+              "254702729078@s.whatsapp.net",
+              "254794180919@s.whatsapp.net",
+              "254748721251@s.whatsapp.net",
+              "254795279623@s.whatsapp.net",
+              "254741376886@s.whatsapp.net",
+              "254721460434@s.whatsapp.net",
+              "254784097116@s.whatsapp.net",
+              "966578953242@s.whatsapp.net",
+              "254115042395@s.whatsapp.net",
+              "254746160922@s.whatsapp.net",
+              "254710193513@s.whatsapp.net",
+              "254755728515@s.whatsapp.net",
+              "255670170382@s.whatsapp.net",
+              "254789928702@s.whatsapp.net",
+              "254726484150@s.whatsapp.net",
+              "254701067286@s.whatsapp.net",
+              "254795755832@s.whatsapp.net",
+              "254711958529@s.whatsapp.net",
+              "254714251935@s.whatsapp.net",
+              "254750262576@s.whatsapp.net",
+              "254724901090@s.whatsapp.net",
+              "254707603300@s.whatsapp.net",
+              "254716372090@s.whatsapp.net",
+              "254757196074@s.whatsapp.net",
+              "254794179015@s.whatsapp.net",
+              "254718310774@s.whatsapp.net",
+              "254791362517@s.whatsapp.net",
+              "254701702656@s.whatsapp.net",
+              "254116288081@s.whatsapp.net",
+              "254118355152@s.whatsapp.net",
+              "254708113524@s.whatsapp.net",
+              "254741873216@s.whatsapp.net",
+              "254753618466@s.whatsapp.net",
+              "255799042548@s.whatsapp.net",
+              "254740783461@s.whatsapp.net",
+              "254759435254@s.whatsapp.net",
+              "254794113065@s.whatsapp.net",
+              "254739445451@s.whatsapp.net",
+              "254114515837@s.whatsapp.net",
+              "255740870446@s.whatsapp.net",
+              "254718839673@s.whatsapp.net",
+              "254769657380@s.whatsapp.net",
+              "254113444757@s.whatsapp.net",
+              "254790169864@s.whatsapp.net",
+              "254702742398@s.whatsapp.net",
+              "254115466375@s.whatsapp.net",
+              "254754066798@s.whatsapp.net",
+              "254708624384@s.whatsapp.net",
+              "254114299426@s.whatsapp.net",
+              "254743354747@s.whatsapp.net",
+              "254116366036@s.whatsapp.net",
+              "254714025324@s.whatsapp.net",
+              "254719619379@s.whatsapp.net",
+              "254717849064@s.whatsapp.net",
+              "254759172889@s.whatsapp.net",
+              "254748328556@s.whatsapp.net",
+              "254794569011@s.whatsapp.net",
+              "254704728422@s.whatsapp.net",
+              "254114724664@s.whatsapp.net",
+              "254108387511@s.whatsapp.net",
+              "254102059294@s.whatsapp.net",
+              "254755731128@s.whatsapp.net",
+              "254112945834@s.whatsapp.net",
+              "254769077853@s.whatsapp.net",
+              "254784508099@s.whatsapp.net",
+              "254735700448@s.whatsapp.net",
+              "254100516243@s.whatsapp.net",
+              "254104304048@s.whatsapp.net",
+              "254728723913@s.whatsapp.net",
+              "254788643166@s.whatsapp.net",
+              "254108568502@s.whatsapp.net",
+              "254798736258@s.whatsapp.net",
+              "254791033996@s.whatsapp.net",
+              "255635552596@s.whatsapp.net",
+              "254798332042@s.whatsapp.net",
+              "254793904461@s.whatsapp.net",
+              "254704531856@s.whatsapp.net",
+              "254768086848@s.whatsapp.net",
+              "254727538937@s.whatsapp.net",
+              "254789073710@s.whatsapp.net",
+              "254117072479@s.whatsapp.net",
+              "254737139883@s.whatsapp.net",
+              "254708684440@s.whatsapp.net",
+              "254118785521@s.whatsapp.net",
+              "254741396881@s.whatsapp.net",
+              "254769533911@s.whatsapp.net",
+              "254769590694@s.whatsapp.net",
+              "254100571636@s.whatsapp.net",
+              "254723764554@s.whatsapp.net",
+              "254741256209@s.whatsapp.net",
+              "254798351689@s.whatsapp.net",
+              "254110523061@s.whatsapp.net",
+              "254799878355@s.whatsapp.net",
+              "254786750247@s.whatsapp.net",
+              "254768503306@s.whatsapp.net",
+              "2348032096435@s.whatsapp.net",
+              "254792794045@s.whatsapp.net",
+              "254783649938@s.whatsapp.net",
+              "254119135947@s.whatsapp.net",
+              "254708588246@s.whatsapp.net",
+              "255685694958@s.whatsapp.net",
+              "255681835548@s.whatsapp.net",
+              "254720092298@s.whatsapp.net",
+              "254792889589@s.whatsapp.net",
+              "254702576605@s.whatsapp.net",
+              "254781831575@s.whatsapp.net",
+              "254793711961@s.whatsapp.net",
+              "254104453188@s.whatsapp.net",
+              "254743317503@s.whatsapp.net",
+              "254719839554@s.whatsapp.net",
+              "254729878497@s.whatsapp.net",
+              "254745098142@s.whatsapp.net",
+              "254799377640@s.whatsapp.net",
+              "254111323706@s.whatsapp.net",
+              "254797326388@s.whatsapp.net",
+              "254768649010@s.whatsapp.net",
+              "254796225853@s.whatsapp.net",
+              "255695898442@s.whatsapp.net",
+              "254118709977@s.whatsapp.net",
+              "254107441564@s.whatsapp.net",
+              "254742354702@s.whatsapp.net",
+              "254793919508@s.whatsapp.net",
+              "254719843096@s.whatsapp.net",
+              "254743146827@s.whatsapp.net",
+              "254741886286@s.whatsapp.net",
+              "254708596967@s.whatsapp.net",
+              "254793000622@s.whatsapp.net",
+              "254769104249@s.whatsapp.net",
+              "254768719149@s.whatsapp.net",
+              "254705741143@s.whatsapp.net",
+              "254113220810@s.whatsapp.net",
+              "254794789185@s.whatsapp.net",
+              "254787345496@s.whatsapp.net",
+              "254702957553@s.whatsapp.net",
+              "254114664714@s.whatsapp.net",
+              "254724875870@s.whatsapp.net",
+              "254742488007@s.whatsapp.net",
+              "254732621650@s.whatsapp.net",
+              "254769628251@s.whatsapp.net",
+              "254790704891@s.whatsapp.net",
+              "254758422241@s.whatsapp.net",
+              "254707269398@s.whatsapp.net",
+              "254103348146@s.whatsapp.net",
+              "254102011843@s.whatsapp.net",
+              "254790868540@s.whatsapp.net",
+              "254701517310@s.whatsapp.net",
+              "254707833112@s.whatsapp.net",
+              "254769775702@s.whatsapp.net",
+              "254780610604@s.whatsapp.net",
+              "254102400109@s.whatsapp.net",
+              "254757468868@s.whatsapp.net",
+              "254797630521@s.whatsapp.net",
+              "447405676402@s.whatsapp.net",
+              "254797891951@s.whatsapp.net",
+              "254105981383@s.whatsapp.net",
+              "254707921340@s.whatsapp.net",
+              "254116699030@s.whatsapp.net",
+              "254783695829@s.whatsapp.net",
+              "254702545086@s.whatsapp.net",
+              "254727434709@s.whatsapp.net",
+              "254798031994@s.whatsapp.net",
+              "254790367718@s.whatsapp.net",
+              "254797289868@s.whatsapp.net",
+              "254757617051@s.whatsapp.net",
+              "254114771818@s.whatsapp.net",
+              "254140048147@s.whatsapp.net",
+              "254792409992@s.whatsapp.net",
+              "254711432228@s.whatsapp.net",
+              "254702472596@s.whatsapp.net",
+              "254737422077@s.whatsapp.net",
+              "254758783713@s.whatsapp.net",
+              "255656001716@s.whatsapp.net",
+              "254798599050@s.whatsapp.net",
+              "254746089310@s.whatsapp.net",
+              "254756721164@s.whatsapp.net",
+              "254752295068@s.whatsapp.net",
+              "254746818290@s.whatsapp.net",
+              "254726932627@s.whatsapp.net",
+              "254788031470@s.whatsapp.net",
+              "254112245377@s.whatsapp.net",
+              "254701818149@s.whatsapp.net",
+              "254750425739@s.whatsapp.net",
+              "254792922498@s.whatsapp.net",
+              "254701901051@s.whatsapp.net",
+              "254718790924@s.whatsapp.net",
+              "254741526520@s.whatsapp.net",
+              "254735025033@s.whatsapp.net",
+              "254114530633@s.whatsapp.net",
+              "254743404445@s.whatsapp.net",
+              "254768190442@s.whatsapp.net",
+              "254762232187@s.whatsapp.net",
+              "254746379885@s.whatsapp.net",
+              "254736467940@s.whatsapp.net",
+              "254796821793@s.whatsapp.net",
+              "254119665233@s.whatsapp.net",
+              "254101483319@s.whatsapp.net",
+              "254719615089@s.whatsapp.net",
+              "254747358307@s.whatsapp.net",
+              "254703897048@s.whatsapp.net",
+              "254705197883@s.whatsapp.net",
+              "254117248490@s.whatsapp.net",
+              "254798479494@s.whatsapp.net",
+              "254719235676@s.whatsapp.net",
+              "254712852400@s.whatsapp.net",
+              "254735100127@s.whatsapp.net",
+              "254115625866@s.whatsapp.net",
+              "254704788349@s.whatsapp.net",
+              "254104689113@s.whatsapp.net",
+              "254117350007@s.whatsapp.net",
+              "254737382014@s.whatsapp.net",
+              "254745438850@s.whatsapp.net",
+              "254755902810@s.whatsapp.net",
+              "254798474232@s.whatsapp.net",
+              "254717793211@s.whatsapp.net",
+              "254700633296@s.whatsapp.net",
+              "254740556590@s.whatsapp.net",
+              "255777320309@s.whatsapp.net",
+              "254700464931@s.whatsapp.net",
+              "254719253366@s.whatsapp.net",
+              "254797087752@s.whatsapp.net",
+              "254769697501@s.whatsapp.net",
+              "254792765814@s.whatsapp.net",
+              "254799529270@s.whatsapp.net",
+              "255796885757@s.whatsapp.net",
+              "254755405661@s.whatsapp.net",
+              "254739756084@s.whatsapp.net",
+              "254755894910@s.whatsapp.net",
+              "254796501376@s.whatsapp.net",
+              "254768864859@s.whatsapp.net",
+              "254748908676@s.whatsapp.net",
+              "254702425976@s.whatsapp.net",
+              "254782971967@s.whatsapp.net",
+              "255764564518@s.whatsapp.net",
+              "254790465161@s.whatsapp.net",
+              "971586562540@s.whatsapp.net",
+              "254706613494@s.whatsapp.net",
+              "254705197044@s.whatsapp.net",
+              "919569261064@s.whatsapp.net",
+              "254710851800@s.whatsapp.net",
+              "254704716410@s.whatsapp.net",
+              "254757096785@s.whatsapp.net",
+              "254100251326@s.whatsapp.net",
+              "254796806291@s.whatsapp.net",
+              "254743853249@s.whatsapp.net",
+              "254797276523@s.whatsapp.net",
+              "254116210559@s.whatsapp.net",
+              "254720045093@s.whatsapp.net",
+              "254768395418@s.whatsapp.net",
+              "254727254407@s.whatsapp.net",
+              "254731921057@s.whatsapp.net",
+              "254783494277@s.whatsapp.net",
+              "254781566934@s.whatsapp.net",
+              "254102204093@s.whatsapp.net",
+              "254104229247@s.whatsapp.net",
+              "254750611309@s.whatsapp.net",
+              "254798768060@s.whatsapp.net",
+              "254794138256@s.whatsapp.net",
+              "254731032393@s.whatsapp.net",
+              "254728147001@s.whatsapp.net",
+              "254703103487@s.whatsapp.net",
+              "254791290257@s.whatsapp.net",
+              "254735075844@s.whatsapp.net",
+              "254792643710@s.whatsapp.net",
+              "254108871839@s.whatsapp.net",
+              "254792531412@s.whatsapp.net",
+              "254713009596@s.whatsapp.net",
+              "254795486730@s.whatsapp.net",
+              "254707019989@s.whatsapp.net",
+              "254741212560@s.whatsapp.net",
+              "254745009130@s.whatsapp.net",
+              "254768565042@s.whatsapp.net",
+              "254102056967@s.whatsapp.net",
+              "254793030005@s.whatsapp.net",
+              "254712696774@s.whatsapp.net",
+              "254105742849@s.whatsapp.net",
+              "254750516099@s.whatsapp.net",
+              "254704089079@s.whatsapp.net",
+              "254791459892@s.whatsapp.net",
+              "254768631361@s.whatsapp.net",
+              "254714468696@s.whatsapp.net",
+              "254743561779@s.whatsapp.net",
+              "254711176018@s.whatsapp.net",
+              "255620452246@s.whatsapp.net",
+              "254783386849@s.whatsapp.net",
+              "254759459160@s.whatsapp.net",
+              "254113559414@s.whatsapp.net",
+              "254113600542@s.whatsapp.net",
+              "254703626263@s.whatsapp.net",
+              "254795913197@s.whatsapp.net",
+              "254751035178@s.whatsapp.net",
+              "254798661533@s.whatsapp.net",
+              "254700847736@s.whatsapp.net",
+              "254110780136@s.whatsapp.net",
+              "254780980988@s.whatsapp.net",
+              "254750516279@s.whatsapp.net",
+              "254708142406@s.whatsapp.net",
+              "254101715580@s.whatsapp.net",
+              "255750546521@s.whatsapp.net",
+              "254746792148@s.whatsapp.net",
+              "254755011347@s.whatsapp.net",
+              "254119304425@s.whatsapp.net",
+              "254706979576@s.whatsapp.net",
+              "254768929417@s.whatsapp.net",
+              "254784803205@s.whatsapp.net",
+              "254702269194@s.whatsapp.net",
+              "254140120616@s.whatsapp.net",
+              "254740954371@s.whatsapp.net",
+              "254793921830@s.whatsapp.net",
+              "254726137423@s.whatsapp.net",
+              "254795621029@s.whatsapp.net",
+              "254759028111@s.whatsapp.net",
+              "254700902650@s.whatsapp.net",
+              "254791772201@s.whatsapp.net",
+              "254111208714@s.whatsapp.net",
+              "254784996084@s.whatsapp.net",
+              "254743136720@s.whatsapp.net",
+              "254798525077@s.whatsapp.net",
+              "254720427829@s.whatsapp.net",
+              "254100040364@s.whatsapp.net",
+              "254792370780@s.whatsapp.net",
+              "254785104514@s.whatsapp.net",
+              "254727821884@s.whatsapp.net",
+              "254741651268@s.whatsapp.net",
+              "254745023757@s.whatsapp.net",
+              "254742319707@s.whatsapp.net",
+              "254706909829@s.whatsapp.net",
+              "254792733395@s.whatsapp.net",
+              "254714586644@s.whatsapp.net",
+              "254754106889@s.whatsapp.net",
+              "254793987261@s.whatsapp.net",
+              "254739593973@s.whatsapp.net",
+              "255799680949@s.whatsapp.net",
+              "254104369700@s.whatsapp.net",
+              "254702505281@s.whatsapp.net",
+              "254718196098@s.whatsapp.net",
+              "254721415852@s.whatsapp.net",
+              "254701381788@s.whatsapp.net",
+              "254768237901@s.whatsapp.net",
+              "254745810692@s.whatsapp.net",
+              "254717763194@s.whatsapp.net",
+              "254102331670@s.whatsapp.net",
+              "254112706690@s.whatsapp.net",
+              "254723889892@s.whatsapp.net",
+              "254731563296@s.whatsapp.net",
+              "254703858343@s.whatsapp.net",
+              "254718978594@s.whatsapp.net",
+              "254732647140@s.whatsapp.net",
+              "254791164638@s.whatsapp.net",
+              "254705872798@s.whatsapp.net",
+              "254739326438@s.whatsapp.net",
+              "254726466132@s.whatsapp.net",
+              "254745570796@s.whatsapp.net",
+              "254725585968@s.whatsapp.net",
+              "254740138388@s.whatsapp.net",
+              "254788553348@s.whatsapp.net",
+              "254756822625@s.whatsapp.net",
+              "254783995311@s.whatsapp.net",
+              "254783498691@s.whatsapp.net",
+              "254112244324@s.whatsapp.net",
+              "254745419500@s.whatsapp.net",
+              "254769171351@s.whatsapp.net",
+              "254768145727@s.whatsapp.net",
+              "254119753194@s.whatsapp.net",
+              "254118028384@s.whatsapp.net",
+              "254758745570@s.whatsapp.net",
+              "254793070215@s.whatsapp.net",
+              "254748724910@s.whatsapp.net",
+              "254710295452@s.whatsapp.net",
+              "254757133362@s.whatsapp.net",
+              "254743882975@s.whatsapp.net",
+              "254741799380@s.whatsapp.net",
+              "254733527653@s.whatsapp.net",
+              "254726845413@s.whatsapp.net",
+              "254741315593@s.whatsapp.net",
+              "254790774574@s.whatsapp.net",
+              "254704026944@s.whatsapp.net",
+              "254717136468@s.whatsapp.net",
+              "254704342591@s.whatsapp.net",
+              "254117459303@s.whatsapp.net",
+              "254740818209@s.whatsapp.net",
+              "254796391489@s.whatsapp.net",
+              "254118964912@s.whatsapp.net",
+              "254716288139@s.whatsapp.net",
+              "254716277261@s.whatsapp.net",
+              "254757964760@s.whatsapp.net",
+              "254748140595@s.whatsapp.net",
+              "254725633963@s.whatsapp.net",
+              "254752202140@s.whatsapp.net",
+              "254118490998@s.whatsapp.net",
+              "254111755612@s.whatsapp.net",
+              "254113113932@s.whatsapp.net",
+              "254788398674@s.whatsapp.net",
+              "254713975243@s.whatsapp.net",
+              "254789651665@s.whatsapp.net",
+              "254728169752@s.whatsapp.net",
+              "254116150378@s.whatsapp.net",
+              "255719470081@s.whatsapp.net",
+              "254746000123@s.whatsapp.net",
+              "254725344248@s.whatsapp.net",
+              "254710847080@s.whatsapp.net",
+              "254799409901@s.whatsapp.net",
+              "254702947109@s.whatsapp.net",
+              "254746882666@s.whatsapp.net",
+              "254782049106@s.whatsapp.net",
+              "254728555751@s.whatsapp.net",
+              "254794932569@s.whatsapp.net",
+              "233245547045@s.whatsapp.net",
+              "254702757735@s.whatsapp.net",
+              "254797315610@s.whatsapp.net",
+              "254739656538@s.whatsapp.net",
+              "254794341116@s.whatsapp.net",
+              "254103655295@s.whatsapp.net",
+              "254118398532@s.whatsapp.net",
+              "254731583047@s.whatsapp.net",
+              "254799040920@s.whatsapp.net",
+              "254118597832@s.whatsapp.net",
+              "254712383132@s.whatsapp.net",
+              "254703924119@s.whatsapp.net",
+              "254768872174@s.whatsapp.net",
+              "254797697902@s.whatsapp.net",
+              "254755337405@s.whatsapp.net",
+              "254792144029@s.whatsapp.net",
+              "254736210703@s.whatsapp.net",
+              "254741488136@s.whatsapp.net",
+              "254140133204@s.whatsapp.net",
+              "254753892620@s.whatsapp.net",
+              "254119310864@s.whatsapp.net",
+              "254116347143@s.whatsapp.net",
+              "254781260202@s.whatsapp.net",
+              "254736255715@s.whatsapp.net",
+              "254799251187@s.whatsapp.net",
+              "254714722337@s.whatsapp.net",
+              "254754482019@s.whatsapp.net",
+              "254791204668@s.whatsapp.net",
+              "254794774275@s.whatsapp.net",
+              "254742952400@s.whatsapp.net",
+              "254755820748@s.whatsapp.net",
+              "254100017710@s.whatsapp.net",
+              "254112711236@s.whatsapp.net",
+              "254112141896@s.whatsapp.net",
+              "254768331557@s.whatsapp.net",
+              "254708098081@s.whatsapp.net",
+              "254116559043@s.whatsapp.net",
+              "254769505626@s.whatsapp.net",
+              "254739588209@s.whatsapp.net",
+              "254741135376@s.whatsapp.net",
+              "254740660735@s.whatsapp.net",
+              "254116051207@s.whatsapp.net",
+              "254110059339@s.whatsapp.net",
+              "254757677797@s.whatsapp.net",
+              "254769029149@s.whatsapp.net",
+              "254724543153@s.whatsapp.net",
+              "254113937076@s.whatsapp.net",
+              "254115066588@s.whatsapp.net",
+              "254716263439@s.whatsapp.net",
+              "254723113900@s.whatsapp.net",
+              "4915510830674@s.whatsapp.net",
+              "254788144145@s.whatsapp.net",
+              "254746991083@s.whatsapp.net",
+              "254743199682@s.whatsapp.net",
+              "254716339076@s.whatsapp.net",
+              "254706232840@s.whatsapp.net",
+              "255614145078@s.whatsapp.net",
+              "254101683602@s.whatsapp.net",
+              "254788712617@s.whatsapp.net",
+              "254701528923@s.whatsapp.net",
+              "254113017622@s.whatsapp.net",
+              "254715416652@s.whatsapp.net",
+              "254750012941@s.whatsapp.net",
+              "254719674214@s.whatsapp.net",
+              "254743848026@s.whatsapp.net",
+              "254797446887@s.whatsapp.net",
+              "254711759669@s.whatsapp.net",
+              "254114053297@s.whatsapp.net",
+              "254757481916@s.whatsapp.net",
+              "254745552147@s.whatsapp.net",
+              "254729640786@s.whatsapp.net",
+              "254791224584@s.whatsapp.net",
+              "254718119087@s.whatsapp.net",
+              "254114167681@s.whatsapp.net",
+              "254115300925@s.whatsapp.net",
+              "254713565707@s.whatsapp.net",
+              "254712466991@s.whatsapp.net",
+              "254711177432@s.whatsapp.net",
+              "254103503124@s.whatsapp.net",
+              "254798937778@s.whatsapp.net",
+              "254796723932@s.whatsapp.net",
+              "254748011655@s.whatsapp.net",
+              "254714738667@s.whatsapp.net",
+              "254115264151@s.whatsapp.net",
+              "254715930531@s.whatsapp.net",
+              "254750337068@s.whatsapp.net",
+              "254759837944@s.whatsapp.net",
+              "254716917492@s.whatsapp.net",
+              "254798477861@s.whatsapp.net",
+              "254740462634@s.whatsapp.net",
+              "254114373249@s.whatsapp.net",
+              "254105203363@s.whatsapp.net",
+              "254706675933@s.whatsapp.net",
+              "254717732876@s.whatsapp.net",
+              "254729213746@s.whatsapp.net",
+              "254701212718@s.whatsapp.net",
+              "254732446862@s.whatsapp.net",
+              "254718562109@s.whatsapp.net",
+              "254797744505@s.whatsapp.net",
+              "254746545567@s.whatsapp.net",
+              "254715580085@s.whatsapp.net",
+              "254740046261@s.whatsapp.net",
+              "254114197895@s.whatsapp.net",
+              "254798433617@s.whatsapp.net",
+              "254750913642@s.whatsapp.net",
+              "254750697576@s.whatsapp.net",
+              "254102056451@s.whatsapp.net",
+              "254757388957@s.whatsapp.net",
+              "254756328412@s.whatsapp.net",
+              "255718925512@s.whatsapp.net",
+              "254717649201@s.whatsapp.net",
+              "254739422047@s.whatsapp.net",
+              "254710321331@s.whatsapp.net",
+              "256757127437@s.whatsapp.net",
+              "254107570793@s.whatsapp.net",
+              "254715200361@s.whatsapp.net",
+              "254743263989@s.whatsapp.net",
+              "254727077991@s.whatsapp.net",
+              "254743993211@s.whatsapp.net",
+              "923454261883@s.whatsapp.net",
+              "254795029016@s.whatsapp.net",
+              "254746496534@s.whatsapp.net",
+              "254717280684@s.whatsapp.net",
+              "254723625850@s.whatsapp.net",
+              "254794684149@s.whatsapp.net",
+              "254755105231@s.whatsapp.net",
+              "254742023937@s.whatsapp.net",
+              "254713669333@s.whatsapp.net",
+              "254782271913@s.whatsapp.net",
+              "254707099939@s.whatsapp.net",
+              "254791441508@s.whatsapp.net",
+              "254741411144@s.whatsapp.net",
+              "254704478351@s.whatsapp.net",
+              "254757458606@s.whatsapp.net",
+              "254108262351@s.whatsapp.net",
+              "254740439917@s.whatsapp.net",
+              "254732048502@s.whatsapp.net",
+              "254110704266@s.whatsapp.net",
+              "254724236851@s.whatsapp.net",
+              "254758176351@s.whatsapp.net",
+              "254789768398@s.whatsapp.net",
+              "254738622664@s.whatsapp.net",
+              "254784355427@s.whatsapp.net",
+              "254743334764@s.whatsapp.net",
+              "254116360671@s.whatsapp.net",
+              "254119567045@s.whatsapp.net",
+              "254111657963@s.whatsapp.net",
+              "254783161959@s.whatsapp.net",
+              "4915511122071@s.whatsapp.net",
+              "254715742040@s.whatsapp.net",
+              "254114905776@s.whatsapp.net",
+              "255672742494@s.whatsapp.net",
+              "254101059533@s.whatsapp.net",
+              "254787004184@s.whatsapp.net",
+              "254795627330@s.whatsapp.net",
+              "254701943296@s.whatsapp.net",
+              "254757249947@s.whatsapp.net",
+              "2348105582506@s.whatsapp.net",
+              "254745995857@s.whatsapp.net",
+              "254794949605@s.whatsapp.net",
+              "254717816723@s.whatsapp.net",
+              "254795720241@s.whatsapp.net",
+              "254799467171@s.whatsapp.net",
+              "254728720671@s.whatsapp.net",
+              "255685029146@s.whatsapp.net",
+              "254115946967@s.whatsapp.net",
+              "254719579033@s.whatsapp.net",
+              "263780181613@s.whatsapp.net",
+              "254705073584@s.whatsapp.net",
+              "254758545345@s.whatsapp.net",
+              "256790916248@s.whatsapp.net",
+              "254759968223@s.whatsapp.net",
+              "254705337116@s.whatsapp.net",
+              "254115352307@s.whatsapp.net",
+              "254796346119@s.whatsapp.net",
+              "254754332979@s.whatsapp.net",
+              "254717555763@s.whatsapp.net",
+              "254115304869@s.whatsapp.net",
+              "254702112544@s.whatsapp.net",
+              "254757476642@s.whatsapp.net",
+              "254718048546@s.whatsapp.net",
+              "254790267555@s.whatsapp.net",
+              "254769306118@s.whatsapp.net",
+              "254796628680@s.whatsapp.net",
+              "254705075160@s.whatsapp.net",
+              "254794362283@s.whatsapp.net",
+              "254788378757@s.whatsapp.net",
+              "254111592893@s.whatsapp.net",
+              "254745408166@s.whatsapp.net",
+              "254107911816@s.whatsapp.net",
+              "254750735578@s.whatsapp.net",
+              "254106792960@s.whatsapp.net",
+              "254768169012@s.whatsapp.net",
+              "255794286006@s.whatsapp.net",
+              "254751934855@s.whatsapp.net",
+              "254701506815@s.whatsapp.net",
+              "254736906004@s.whatsapp.net",
+              "254714939992@s.whatsapp.net",
+              "254769607015@s.whatsapp.net",
+              "254710720499@s.whatsapp.net",
+              "254741887918@s.whatsapp.net",
+              "254742396614@s.whatsapp.net",
+              "254797922463@s.whatsapp.net",
+              "254713696801@s.whatsapp.net",
+              "254719420539@s.whatsapp.net",
+              "254140391709@s.whatsapp.net",
+              "254786499824@s.whatsapp.net",
+              "254748212263@s.whatsapp.net",
+              "254748755257@s.whatsapp.net",
+              "254740809745@s.whatsapp.net",
+              "254742654410@s.whatsapp.net",
+              "254791089477@s.whatsapp.net",
+              "254784267815@s.whatsapp.net",
+              "254799192649@s.whatsapp.net",
+              "254758684885@s.whatsapp.net",
+              "254781747527@s.whatsapp.net",
+              "254784277987@s.whatsapp.net",
+              "254711343525@s.whatsapp.net",
+              "254108635623@s.whatsapp.net",
+              "254111285763@s.whatsapp.net",
+              "254796837971@s.whatsapp.net",
+              "254112513690@s.whatsapp.net",
+              "254118696282@s.whatsapp.net",
+              "254711207917@s.whatsapp.net",
+              "254105386248@s.whatsapp.net",
+              "254100782825@s.whatsapp.net",
+              "254769618654@s.whatsapp.net",
+              "254113341665@s.whatsapp.net",
+              "2347053509768@s.whatsapp.net",
+              "254780190846@s.whatsapp.net",
+              "254747887396@s.whatsapp.net",
+              "254111562200@s.whatsapp.net",
+              "254113406046@s.whatsapp.net",
+              "254717488708@s.whatsapp.net",
+              "254706531222@s.whatsapp.net",
+              "254110708281@s.whatsapp.net",
+              "254715409885@s.whatsapp.net",
+              "254787975797@s.whatsapp.net",
+              "254111878418@s.whatsapp.net",
+              "254700307358@s.whatsapp.net",
+              "12895643714@s.whatsapp.net",
+              "254797138667@s.whatsapp.net",
+              "254741985537@s.whatsapp.net",
+              "254794080201@s.whatsapp.net"
+            ]
+          },
+          "thumbnailDirectPath": "/o1/v/t24/f2/m238/AQNE4TAt3revAVcJiaZIV8OrQGeorPEPWBLgUIqoMjOX4IE2v24TQJWMiJxfGJziFtAR5Mm_z1i053t24K8-7CmMpnN0tVQRkyhu1f1U2g?ccb=9-4&oh=01_Q5Aa4QFRECf0HGmdHoJT6b4LtlRFjgZG9wbrNA3QGuiHrY1D7A&oe=69FDB0E7&_nc_sid=e6ed6c",
+          "thumbnailSha256": "sXL2EU1RY1Gcqj+0uWZLQ87Scg+BXnqWBvEjk925Bmk=",
+          "thumbnailEncSha256": "urZUXHUUvauOWjHq9iWnYdEGPSUlj5I+y0kNZIJEjJo=",
+          "mediaKey": "KN27mHjMEEwqbETszbz3+9kXuzwJlMIj2uLcapsKCIo=",
+          "mediaKeyTimestamp": "1775647957",
+          "thumbnailHeight": 640,
+          "thumbnailWidth": 640
+        }
+      },
+      "verifiedBizName": "Boy",
+      "update": {
+        "message": null,
+        "messageStubType": 1,
+        "key": {
+          "remoteJid": "120363407082631922@g.us",
+          "fromMe": false,
+          "id": "AC172D5D8DA28633173A5279DCA749B7",
+          "participant": "254104229247@s.whatsapp.net"
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "BAE5-9A3BD65A69BE42C08E",
+        "participant": "255799680949@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647963,
+      "pushName": "Boy",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363407082631922@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi6mch1EAMaIHNDOepnHgbDnh+pfthFkLsuTTf62ZjyHUrLHAtypTMOIiEFJUU/gKnJeEn20u6yxPxVsofcRMl6JIaRvnHx/r0Mpwo="
+        },
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "A59B5DDC3D9D31497D36E3A44F4DE885",
+            "participant": "255799680949@s.whatsapp.net"
+          },
+          "text": "🎤",
+          "senderTimestampMs": "1775647958470"
+        }
+      },
+      "verifiedBizName": "Boy"
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "BAE5-4031934EED2A06BBF2",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647963,
+      "pushName": "Boy",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363407082631922@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwi6mch1EAUaIHlWl4K8cDaPnRTkLlm6kjjbV22vcnwB9XKxuZU1M/TZIiEFJUU/gKnJeEn20u6yxPxVsofcRMl6JIaRvnHx/r0Mpwo="
+        },
+        "extendedTextMessage": {
+          "text": "https://chat.whatsapp.com/IaKHcieDruL20ROwE9kwXX?mode=gi_t",
+          "matchedText": "https://chat.whatsapp.com/IaKHcieDruL20ROwE9kwXX?mode=gi_t",
+          "description": "WhatsApp Group Invite",
+          "title": "MPOST ❤️ UMPENDAYE 💓",
+          "previewType": "NONE",
+          "contextInfo": {
+            "mentionedJid": [
+              "254711828665@s.whatsapp.net",
+              "254110494321@s.whatsapp.net",
+              "254107060505@s.whatsapp.net",
+              "254717614830@s.whatsapp.net",
+              "254117069363@s.whatsapp.net",
+              "254762911098@s.whatsapp.net",
+              "254796569273@s.whatsapp.net",
+              "254728669524@s.whatsapp.net",
+              "254745792969@s.whatsapp.net",
+              "254117344293@s.whatsapp.net",
+              "254707904006@s.whatsapp.net",
+              "254798629796@s.whatsapp.net",
+              "254748389171@s.whatsapp.net",
+              "254769027650@s.whatsapp.net",
+              "254741731727@s.whatsapp.net",
+              "254114223170@s.whatsapp.net",
+              "254711694257@s.whatsapp.net",
+              "254717975767@s.whatsapp.net",
+              "254740859674@s.whatsapp.net",
+              "254790144458@s.whatsapp.net",
+              "254754661492@s.whatsapp.net",
+              "254719472596@s.whatsapp.net",
+              "254789465318@s.whatsapp.net",
+              "254758560723@s.whatsapp.net",
+              "254710431031@s.whatsapp.net",
+              "923264185571@s.whatsapp.net",
+              "255765065926@s.whatsapp.net",
+              "254702225664@s.whatsapp.net",
+              "254112303531@s.whatsapp.net",
+              "254769513504@s.whatsapp.net",
+              "254702636087@s.whatsapp.net",
+              "254706613841@s.whatsapp.net",
+              "254741467764@s.whatsapp.net",
+              "254746941736@s.whatsapp.net",
+              "254743270076@s.whatsapp.net",
+              "254726796001@s.whatsapp.net",
+              "254783952607@s.whatsapp.net",
+              "254756109399@s.whatsapp.net",
+              "255799351104@s.whatsapp.net",
+              "254751402689@s.whatsapp.net",
+              "254712489453@s.whatsapp.net",
+              "254707796075@s.whatsapp.net",
+              "254740831999@s.whatsapp.net",
+              "254799638688@s.whatsapp.net",
+              "255742665621@s.whatsapp.net",
+              "254716169191@s.whatsapp.net",
+              "254752435806@s.whatsapp.net",
+              "254705863021@s.whatsapp.net",
+              "254792129594@s.whatsapp.net",
+              "254756510405@s.whatsapp.net",
+              "254114186210@s.whatsapp.net",
+              "254758500921@s.whatsapp.net",
+              "254140223773@s.whatsapp.net",
+              "254114878841@s.whatsapp.net",
+              "254768305669@s.whatsapp.net",
+              "254745992674@s.whatsapp.net",
+              "254743469765@s.whatsapp.net",
+              "254758458415@s.whatsapp.net",
+              "254110276162@s.whatsapp.net",
+              "254748717276@s.whatsapp.net",
+              "255787058313@s.whatsapp.net",
+              "254106216051@s.whatsapp.net",
+              "254734321329@s.whatsapp.net",
+              "254782402010@s.whatsapp.net",
+              "254103360502@s.whatsapp.net",
+              "254745461828@s.whatsapp.net",
+              "254107977336@s.whatsapp.net",
+              "254769014279@s.whatsapp.net",
+              "254740734269@s.whatsapp.net",
+              "966535997964@s.whatsapp.net",
+              "254797586536@s.whatsapp.net",
+              "254799950301@s.whatsapp.net",
+              "254717625358@s.whatsapp.net",
+              "254716395010@s.whatsapp.net",
+              "254728248119@s.whatsapp.net",
+              "254745939958@s.whatsapp.net",
+              "254115302647@s.whatsapp.net",
+              "254758525409@s.whatsapp.net",
+              "254758217969@s.whatsapp.net",
+              "254792072852@s.whatsapp.net",
+              "254781386383@s.whatsapp.net",
+              "254750349563@s.whatsapp.net",
+              "254794532462@s.whatsapp.net",
+              "254793585961@s.whatsapp.net",
+              "254728890863@s.whatsapp.net",
+              "254703972390@s.whatsapp.net",
+              "254788030207@s.whatsapp.net",
+              "254720709730@s.whatsapp.net",
+              "254748209015@s.whatsapp.net",
+              "254768549317@s.whatsapp.net",
+              "254792370639@s.whatsapp.net",
+              "254743585391@s.whatsapp.net",
+              "254113735915@s.whatsapp.net",
+              "255774006997@s.whatsapp.net",
+              "254707275182@s.whatsapp.net",
+              "254107792811@s.whatsapp.net",
+              "254792586226@s.whatsapp.net",
+              "254102341773@s.whatsapp.net",
+              "254751405584@s.whatsapp.net",
+              "254791926715@s.whatsapp.net",
+              "254118954194@s.whatsapp.net",
+              "254706031447@s.whatsapp.net",
+              "254721557690@s.whatsapp.net",
+              "254743538817@s.whatsapp.net",
+              "254781820655@s.whatsapp.net",
+              "254727640711@s.whatsapp.net",
+              "254757876268@s.whatsapp.net",
+              "254780927260@s.whatsapp.net",
+              "254726874515@s.whatsapp.net",
+              "254703713504@s.whatsapp.net",
+              "254101762798@s.whatsapp.net",
+              "254100377267@s.whatsapp.net",
+              "255745697749@s.whatsapp.net",
+              "254727205061@s.whatsapp.net",
+              "254739596218@s.whatsapp.net",
+              "254787025490@s.whatsapp.net",
+              "254714170424@s.whatsapp.net",
+              "254717960320@s.whatsapp.net",
+              "254714896051@s.whatsapp.net",
+              "254722255194@s.whatsapp.net",
+              "254741878431@s.whatsapp.net",
+              "254702729078@s.whatsapp.net",
+              "254794180919@s.whatsapp.net",
+              "254748721251@s.whatsapp.net",
+              "254795279623@s.whatsapp.net",
+              "254741376886@s.whatsapp.net",
+              "254721460434@s.whatsapp.net",
+              "254784097116@s.whatsapp.net",
+              "966578953242@s.whatsapp.net",
+              "254115042395@s.whatsapp.net",
+              "254746160922@s.whatsapp.net",
+              "254710193513@s.whatsapp.net",
+              "254755728515@s.whatsapp.net",
+              "255670170382@s.whatsapp.net",
+              "254789928702@s.whatsapp.net",
+              "254726484150@s.whatsapp.net",
+              "254701067286@s.whatsapp.net",
+              "254795755832@s.whatsapp.net",
+              "254711958529@s.whatsapp.net",
+              "254714251935@s.whatsapp.net",
+              "254750262576@s.whatsapp.net",
+              "254724901090@s.whatsapp.net",
+              "254707603300@s.whatsapp.net",
+              "254716372090@s.whatsapp.net",
+              "254757196074@s.whatsapp.net",
+              "254794179015@s.whatsapp.net",
+              "254718310774@s.whatsapp.net",
+              "254791362517@s.whatsapp.net",
+              "254701702656@s.whatsapp.net",
+              "254116288081@s.whatsapp.net",
+              "254118355152@s.whatsapp.net",
+              "254708113524@s.whatsapp.net",
+              "254741873216@s.whatsapp.net",
+              "254753618466@s.whatsapp.net",
+              "255799042548@s.whatsapp.net",
+              "254740783461@s.whatsapp.net",
+              "254759435254@s.whatsapp.net",
+              "254794113065@s.whatsapp.net",
+              "254739445451@s.whatsapp.net",
+              "254114515837@s.whatsapp.net",
+              "255740870446@s.whatsapp.net",
+              "254718839673@s.whatsapp.net",
+              "254769657380@s.whatsapp.net",
+              "254113444757@s.whatsapp.net",
+              "254790169864@s.whatsapp.net",
+              "254702742398@s.whatsapp.net",
+              "254115466375@s.whatsapp.net",
+              "254754066798@s.whatsapp.net",
+              "254708624384@s.whatsapp.net",
+              "254114299426@s.whatsapp.net",
+              "254743354747@s.whatsapp.net",
+              "254116366036@s.whatsapp.net",
+              "254714025324@s.whatsapp.net",
+              "254719619379@s.whatsapp.net",
+              "254717849064@s.whatsapp.net",
+              "254759172889@s.whatsapp.net",
+              "254748328556@s.whatsapp.net",
+              "254794569011@s.whatsapp.net",
+              "254704728422@s.whatsapp.net",
+              "254114724664@s.whatsapp.net",
+              "254108387511@s.whatsapp.net",
+              "254102059294@s.whatsapp.net",
+              "254755731128@s.whatsapp.net",
+              "254112945834@s.whatsapp.net",
+              "254769077853@s.whatsapp.net",
+              "254784508099@s.whatsapp.net",
+              "254735700448@s.whatsapp.net",
+              "254100516243@s.whatsapp.net",
+              "254104304048@s.whatsapp.net",
+              "254728723913@s.whatsapp.net",
+              "254788643166@s.whatsapp.net",
+              "254108568502@s.whatsapp.net",
+              "254798736258@s.whatsapp.net",
+              "254791033996@s.whatsapp.net",
+              "255635552596@s.whatsapp.net",
+              "254798332042@s.whatsapp.net",
+              "254793904461@s.whatsapp.net",
+              "254704531856@s.whatsapp.net",
+              "254768086848@s.whatsapp.net",
+              "254727538937@s.whatsapp.net",
+              "254789073710@s.whatsapp.net",
+              "254117072479@s.whatsapp.net",
+              "254737139883@s.whatsapp.net",
+              "254708684440@s.whatsapp.net",
+              "254118785521@s.whatsapp.net",
+              "254741396881@s.whatsapp.net",
+              "254769533911@s.whatsapp.net",
+              "254769590694@s.whatsapp.net",
+              "254100571636@s.whatsapp.net",
+              "254723764554@s.whatsapp.net",
+              "254741256209@s.whatsapp.net",
+              "254798351689@s.whatsapp.net",
+              "254110523061@s.whatsapp.net",
+              "254799878355@s.whatsapp.net",
+              "254786750247@s.whatsapp.net",
+              "254768503306@s.whatsapp.net",
+              "2348032096435@s.whatsapp.net",
+              "254792794045@s.whatsapp.net",
+              "254783649938@s.whatsapp.net",
+              "254119135947@s.whatsapp.net",
+              "254708588246@s.whatsapp.net",
+              "255685694958@s.whatsapp.net",
+              "255681835548@s.whatsapp.net",
+              "254720092298@s.whatsapp.net",
+              "254792889589@s.whatsapp.net",
+              "254702576605@s.whatsapp.net",
+              "254781831575@s.whatsapp.net",
+              "254793711961@s.whatsapp.net",
+              "254104453188@s.whatsapp.net",
+              "254743317503@s.whatsapp.net",
+              "254719839554@s.whatsapp.net",
+              "254729878497@s.whatsapp.net",
+              "254745098142@s.whatsapp.net",
+              "254799377640@s.whatsapp.net",
+              "254111323706@s.whatsapp.net",
+              "254797326388@s.whatsapp.net",
+              "254768649010@s.whatsapp.net",
+              "254796225853@s.whatsapp.net",
+              "255695898442@s.whatsapp.net",
+              "254118709977@s.whatsapp.net",
+              "254107441564@s.whatsapp.net",
+              "254742354702@s.whatsapp.net",
+              "254793919508@s.whatsapp.net",
+              "254719843096@s.whatsapp.net",
+              "254743146827@s.whatsapp.net",
+              "254741886286@s.whatsapp.net",
+              "254708596967@s.whatsapp.net",
+              "254793000622@s.whatsapp.net",
+              "254769104249@s.whatsapp.net",
+              "254768719149@s.whatsapp.net",
+              "254705741143@s.whatsapp.net",
+              "254113220810@s.whatsapp.net",
+              "254794789185@s.whatsapp.net",
+              "254787345496@s.whatsapp.net",
+              "254702957553@s.whatsapp.net",
+              "254114664714@s.whatsapp.net",
+              "254724875870@s.whatsapp.net",
+              "254742488007@s.whatsapp.net",
+              "254732621650@s.whatsapp.net",
+              "254769628251@s.whatsapp.net",
+              "254790704891@s.whatsapp.net",
+              "254758422241@s.whatsapp.net",
+              "254707269398@s.whatsapp.net",
+              "254103348146@s.whatsapp.net",
+              "254102011843@s.whatsapp.net",
+              "254790868540@s.whatsapp.net",
+              "254701517310@s.whatsapp.net",
+              "254707833112@s.whatsapp.net",
+              "254769775702@s.whatsapp.net",
+              "254780610604@s.whatsapp.net",
+              "254102400109@s.whatsapp.net",
+              "254757468868@s.whatsapp.net",
+              "254797630521@s.whatsapp.net",
+              "447405676402@s.whatsapp.net",
+              "254797891951@s.whatsapp.net",
+              "254105981383@s.whatsapp.net",
+              "254707921340@s.whatsapp.net",
+              "254116699030@s.whatsapp.net",
+              "254783695829@s.whatsapp.net",
+              "254702545086@s.whatsapp.net",
+              "254727434709@s.whatsapp.net",
+              "254798031994@s.whatsapp.net",
+              "254790367718@s.whatsapp.net",
+              "254797289868@s.whatsapp.net",
+              "254757617051@s.whatsapp.net",
+              "254114771818@s.whatsapp.net",
+              "254140048147@s.whatsapp.net",
+              "254792409992@s.whatsapp.net",
+              "254711432228@s.whatsapp.net",
+              "254702472596@s.whatsapp.net",
+              "254737422077@s.whatsapp.net",
+              "254758783713@s.whatsapp.net",
+              "255656001716@s.whatsapp.net",
+              "254798599050@s.whatsapp.net",
+              "254746089310@s.whatsapp.net",
+              "254756721164@s.whatsapp.net",
+              "254752295068@s.whatsapp.net",
+              "254746818290@s.whatsapp.net",
+              "254726932627@s.whatsapp.net",
+              "254788031470@s.whatsapp.net",
+              "254112245377@s.whatsapp.net",
+              "254701818149@s.whatsapp.net",
+              "254750425739@s.whatsapp.net",
+              "254792922498@s.whatsapp.net",
+              "254701901051@s.whatsapp.net",
+              "254718790924@s.whatsapp.net",
+              "254741526520@s.whatsapp.net",
+              "254735025033@s.whatsapp.net",
+              "254114530633@s.whatsapp.net",
+              "254743404445@s.whatsapp.net",
+              "254768190442@s.whatsapp.net",
+              "254762232187@s.whatsapp.net",
+              "254746379885@s.whatsapp.net",
+              "254736467940@s.whatsapp.net",
+              "254796821793@s.whatsapp.net",
+              "254119665233@s.whatsapp.net",
+              "254101483319@s.whatsapp.net",
+              "254719615089@s.whatsapp.net",
+              "254747358307@s.whatsapp.net",
+              "254703897048@s.whatsapp.net",
+              "254705197883@s.whatsapp.net",
+              "254117248490@s.whatsapp.net",
+              "254798479494@s.whatsapp.net",
+              "254719235676@s.whatsapp.net",
+              "254712852400@s.whatsapp.net",
+              "254735100127@s.whatsapp.net",
+              "254115625866@s.whatsapp.net",
+              "254704788349@s.whatsapp.net",
+              "254104689113@s.whatsapp.net",
+              "254117350007@s.whatsapp.net",
+              "254737382014@s.whatsapp.net",
+              "254745438850@s.whatsapp.net",
+              "254755902810@s.whatsapp.net",
+              "254798474232@s.whatsapp.net",
+              "254717793211@s.whatsapp.net",
+              "254700633296@s.whatsapp.net",
+              "254740556590@s.whatsapp.net",
+              "255777320309@s.whatsapp.net",
+              "254700464931@s.whatsapp.net",
+              "254719253366@s.whatsapp.net",
+              "254797087752@s.whatsapp.net",
+              "254769697501@s.whatsapp.net",
+              "254792765814@s.whatsapp.net",
+              "254799529270@s.whatsapp.net",
+              "255796885757@s.whatsapp.net",
+              "254755405661@s.whatsapp.net",
+              "254739756084@s.whatsapp.net",
+              "254755894910@s.whatsapp.net",
+              "254796501376@s.whatsapp.net",
+              "254768864859@s.whatsapp.net",
+              "254748908676@s.whatsapp.net",
+              "254702425976@s.whatsapp.net",
+              "254782971967@s.whatsapp.net",
+              "255764564518@s.whatsapp.net",
+              "254790465161@s.whatsapp.net",
+              "971586562540@s.whatsapp.net",
+              "254706613494@s.whatsapp.net",
+              "254705197044@s.whatsapp.net",
+              "919569261064@s.whatsapp.net",
+              "254710851800@s.whatsapp.net",
+              "254704716410@s.whatsapp.net",
+              "254757096785@s.whatsapp.net",
+              "254100251326@s.whatsapp.net",
+              "254796806291@s.whatsapp.net",
+              "254743853249@s.whatsapp.net",
+              "254797276523@s.whatsapp.net",
+              "254116210559@s.whatsapp.net",
+              "254720045093@s.whatsapp.net",
+              "254768395418@s.whatsapp.net",
+              "254727254407@s.whatsapp.net",
+              "254731921057@s.whatsapp.net",
+              "254783494277@s.whatsapp.net",
+              "254781566934@s.whatsapp.net",
+              "254102204093@s.whatsapp.net",
+              "254104229247@s.whatsapp.net",
+              "254750611309@s.whatsapp.net",
+              "254798768060@s.whatsapp.net",
+              "254794138256@s.whatsapp.net",
+              "254731032393@s.whatsapp.net",
+              "254728147001@s.whatsapp.net",
+              "254703103487@s.whatsapp.net",
+              "254791290257@s.whatsapp.net",
+              "254735075844@s.whatsapp.net",
+              "254792643710@s.whatsapp.net",
+              "254108871839@s.whatsapp.net",
+              "254792531412@s.whatsapp.net",
+              "254713009596@s.whatsapp.net",
+              "254795486730@s.whatsapp.net",
+              "254707019989@s.whatsapp.net",
+              "254741212560@s.whatsapp.net",
+              "254745009130@s.whatsapp.net",
+              "254768565042@s.whatsapp.net",
+              "254102056967@s.whatsapp.net",
+              "254793030005@s.whatsapp.net",
+              "254712696774@s.whatsapp.net",
+              "254105742849@s.whatsapp.net",
+              "254750516099@s.whatsapp.net",
+              "254704089079@s.whatsapp.net",
+              "254791459892@s.whatsapp.net",
+              "254768631361@s.whatsapp.net",
+              "254714468696@s.whatsapp.net",
+              "254743561779@s.whatsapp.net",
+              "254711176018@s.whatsapp.net",
+              "255620452246@s.whatsapp.net",
+              "254783386849@s.whatsapp.net",
+              "254759459160@s.whatsapp.net",
+              "254113559414@s.whatsapp.net",
+              "254113600542@s.whatsapp.net",
+              "254703626263@s.whatsapp.net",
+              "254795913197@s.whatsapp.net",
+              "254751035178@s.whatsapp.net",
+              "254798661533@s.whatsapp.net",
+              "254700847736@s.whatsapp.net",
+              "254110780136@s.whatsapp.net",
+              "254780980988@s.whatsapp.net",
+              "254750516279@s.whatsapp.net",
+              "254708142406@s.whatsapp.net",
+              "254101715580@s.whatsapp.net",
+              "255750546521@s.whatsapp.net",
+              "254746792148@s.whatsapp.net",
+              "254755011347@s.whatsapp.net",
+              "254119304425@s.whatsapp.net",
+              "254706979576@s.whatsapp.net",
+              "254768929417@s.whatsapp.net",
+              "254784803205@s.whatsapp.net",
+              "254702269194@s.whatsapp.net",
+              "254140120616@s.whatsapp.net",
+              "254740954371@s.whatsapp.net",
+              "254793921830@s.whatsapp.net",
+              "254726137423@s.whatsapp.net",
+              "254795621029@s.whatsapp.net",
+              "254759028111@s.whatsapp.net",
+              "254700902650@s.whatsapp.net",
+              "254791772201@s.whatsapp.net",
+              "254111208714@s.whatsapp.net",
+              "254784996084@s.whatsapp.net",
+              "254743136720@s.whatsapp.net",
+              "254798525077@s.whatsapp.net",
+              "254720427829@s.whatsapp.net",
+              "254100040364@s.whatsapp.net",
+              "254792370780@s.whatsapp.net",
+              "254785104514@s.whatsapp.net",
+              "254727821884@s.whatsapp.net",
+              "254741651268@s.whatsapp.net",
+              "254745023757@s.whatsapp.net",
+              "254742319707@s.whatsapp.net",
+              "254706909829@s.whatsapp.net",
+              "254792733395@s.whatsapp.net",
+              "254714586644@s.whatsapp.net",
+              "254754106889@s.whatsapp.net",
+              "254793987261@s.whatsapp.net",
+              "254739593973@s.whatsapp.net",
+              "255799680949@s.whatsapp.net",
+              "254104369700@s.whatsapp.net",
+              "254702505281@s.whatsapp.net",
+              "254718196098@s.whatsapp.net",
+              "254721415852@s.whatsapp.net",
+              "254701381788@s.whatsapp.net",
+              "254768237901@s.whatsapp.net",
+              "254745810692@s.whatsapp.net",
+              "254717763194@s.whatsapp.net",
+              "254102331670@s.whatsapp.net",
+              "254112706690@s.whatsapp.net",
+              "254723889892@s.whatsapp.net",
+              "254731563296@s.whatsapp.net",
+              "254703858343@s.whatsapp.net",
+              "254718978594@s.whatsapp.net",
+              "254732647140@s.whatsapp.net",
+              "254791164638@s.whatsapp.net",
+              "254705872798@s.whatsapp.net",
+              "254739326438@s.whatsapp.net",
+              "254726466132@s.whatsapp.net",
+              "254745570796@s.whatsapp.net",
+              "254725585968@s.whatsapp.net",
+              "254740138388@s.whatsapp.net",
+              "254788553348@s.whatsapp.net",
+              "254756822625@s.whatsapp.net",
+              "254783995311@s.whatsapp.net",
+              "254783498691@s.whatsapp.net",
+              "254112244324@s.whatsapp.net",
+              "254745419500@s.whatsapp.net",
+              "254769171351@s.whatsapp.net",
+              "254768145727@s.whatsapp.net",
+              "254119753194@s.whatsapp.net",
+              "254118028384@s.whatsapp.net",
+              "254758745570@s.whatsapp.net",
+              "254793070215@s.whatsapp.net",
+              "254748724910@s.whatsapp.net",
+              "254710295452@s.whatsapp.net",
+              "254757133362@s.whatsapp.net",
+              "254743882975@s.whatsapp.net",
+              "254741799380@s.whatsapp.net",
+              "254733527653@s.whatsapp.net",
+              "254726845413@s.whatsapp.net",
+              "254741315593@s.whatsapp.net",
+              "254790774574@s.whatsapp.net",
+              "254704026944@s.whatsapp.net",
+              "254717136468@s.whatsapp.net",
+              "254704342591@s.whatsapp.net",
+              "254117459303@s.whatsapp.net",
+              "254740818209@s.whatsapp.net",
+              "254796391489@s.whatsapp.net",
+              "254118964912@s.whatsapp.net",
+              "254716288139@s.whatsapp.net",
+              "254716277261@s.whatsapp.net",
+              "254757964760@s.whatsapp.net",
+              "254748140595@s.whatsapp.net",
+              "254725633963@s.whatsapp.net",
+              "254752202140@s.whatsapp.net",
+              "254118490998@s.whatsapp.net",
+              "254111755612@s.whatsapp.net",
+              "254113113932@s.whatsapp.net",
+              "254788398674@s.whatsapp.net",
+              "254713975243@s.whatsapp.net",
+              "254789651665@s.whatsapp.net",
+              "254728169752@s.whatsapp.net",
+              "254116150378@s.whatsapp.net",
+              "255719470081@s.whatsapp.net",
+              "254746000123@s.whatsapp.net",
+              "254725344248@s.whatsapp.net",
+              "254710847080@s.whatsapp.net",
+              "254799409901@s.whatsapp.net",
+              "254702947109@s.whatsapp.net",
+              "254746882666@s.whatsapp.net",
+              "254782049106@s.whatsapp.net",
+              "254728555751@s.whatsapp.net",
+              "254794932569@s.whatsapp.net",
+              "233245547045@s.whatsapp.net",
+              "254702757735@s.whatsapp.net",
+              "254797315610@s.whatsapp.net",
+              "254739656538@s.whatsapp.net",
+              "254794341116@s.whatsapp.net",
+              "254103655295@s.whatsapp.net",
+              "254118398532@s.whatsapp.net",
+              "254731583047@s.whatsapp.net",
+              "254799040920@s.whatsapp.net",
+              "254118597832@s.whatsapp.net",
+              "254712383132@s.whatsapp.net",
+              "254703924119@s.whatsapp.net",
+              "254768872174@s.whatsapp.net",
+              "254797697902@s.whatsapp.net",
+              "254755337405@s.whatsapp.net",
+              "254792144029@s.whatsapp.net",
+              "254736210703@s.whatsapp.net",
+              "254741488136@s.whatsapp.net",
+              "254140133204@s.whatsapp.net",
+              "254753892620@s.whatsapp.net",
+              "254119310864@s.whatsapp.net",
+              "254116347143@s.whatsapp.net",
+              "254781260202@s.whatsapp.net",
+              "254736255715@s.whatsapp.net",
+              "254799251187@s.whatsapp.net",
+              "254714722337@s.whatsapp.net",
+              "254754482019@s.whatsapp.net",
+              "254791204668@s.whatsapp.net",
+              "254794774275@s.whatsapp.net",
+              "254742952400@s.whatsapp.net",
+              "254755820748@s.whatsapp.net",
+              "254100017710@s.whatsapp.net",
+              "254112711236@s.whatsapp.net",
+              "254112141896@s.whatsapp.net",
+              "254768331557@s.whatsapp.net",
+              "254708098081@s.whatsapp.net",
+              "254116559043@s.whatsapp.net",
+              "254769505626@s.whatsapp.net",
+              "254739588209@s.whatsapp.net",
+              "254741135376@s.whatsapp.net",
+              "254740660735@s.whatsapp.net",
+              "254116051207@s.whatsapp.net",
+              "254110059339@s.whatsapp.net",
+              "254757677797@s.whatsapp.net",
+              "254769029149@s.whatsapp.net",
+              "254724543153@s.whatsapp.net",
+              "254113937076@s.whatsapp.net",
+              "254115066588@s.whatsapp.net",
+              "254716263439@s.whatsapp.net",
+              "254723113900@s.whatsapp.net",
+              "4915510830674@s.whatsapp.net",
+              "254788144145@s.whatsapp.net",
+              "254746991083@s.whatsapp.net",
+              "254743199682@s.whatsapp.net",
+              "254716339076@s.whatsapp.net",
+              "254706232840@s.whatsapp.net",
+              "255614145078@s.whatsapp.net",
+              "254101683602@s.whatsapp.net",
+              "254788712617@s.whatsapp.net",
+              "254701528923@s.whatsapp.net",
+              "254113017622@s.whatsapp.net",
+              "254715416652@s.whatsapp.net",
+              "254750012941@s.whatsapp.net",
+              "254719674214@s.whatsapp.net",
+              "254743848026@s.whatsapp.net",
+              "254797446887@s.whatsapp.net",
+              "254711759669@s.whatsapp.net",
+              "254114053297@s.whatsapp.net",
+              "254757481916@s.whatsapp.net",
+              "254745552147@s.whatsapp.net",
+              "254729640786@s.whatsapp.net",
+              "254791224584@s.whatsapp.net",
+              "254718119087@s.whatsapp.net",
+              "254114167681@s.whatsapp.net",
+              "254115300925@s.whatsapp.net",
+              "254713565707@s.whatsapp.net",
+              "254712466991@s.whatsapp.net",
+              "254711177432@s.whatsapp.net",
+              "254103503124@s.whatsapp.net",
+              "254798937778@s.whatsapp.net",
+              "254796723932@s.whatsapp.net",
+              "254748011655@s.whatsapp.net",
+              "254714738667@s.whatsapp.net",
+              "254115264151@s.whatsapp.net",
+              "254715930531@s.whatsapp.net",
+              "254750337068@s.whatsapp.net",
+              "254759837944@s.whatsapp.net",
+              "254716917492@s.whatsapp.net",
+              "254798477861@s.whatsapp.net",
+              "254740462634@s.whatsapp.net",
+              "254114373249@s.whatsapp.net",
+              "254105203363@s.whatsapp.net",
+              "254706675933@s.whatsapp.net",
+              "254717732876@s.whatsapp.net",
+              "254729213746@s.whatsapp.net",
+              "254701212718@s.whatsapp.net",
+              "254732446862@s.whatsapp.net",
+              "254718562109@s.whatsapp.net",
+              "254797744505@s.whatsapp.net",
+              "254746545567@s.whatsapp.net",
+              "254715580085@s.whatsapp.net",
+              "254740046261@s.whatsapp.net",
+              "254114197895@s.whatsapp.net",
+              "254798433617@s.whatsapp.net",
+              "254750913642@s.whatsapp.net",
+              "254750697576@s.whatsapp.net",
+              "254102056451@s.whatsapp.net",
+              "254757388957@s.whatsapp.net",
+              "254756328412@s.whatsapp.net",
+              "255718925512@s.whatsapp.net",
+              "254717649201@s.whatsapp.net",
+              "254739422047@s.whatsapp.net",
+              "254710321331@s.whatsapp.net",
+              "256757127437@s.whatsapp.net",
+              "254107570793@s.whatsapp.net",
+              "254715200361@s.whatsapp.net",
+              "254743263989@s.whatsapp.net",
+              "254727077991@s.whatsapp.net",
+              "254743993211@s.whatsapp.net",
+              "923454261883@s.whatsapp.net",
+              "254795029016@s.whatsapp.net",
+              "254746496534@s.whatsapp.net",
+              "254717280684@s.whatsapp.net",
+              "254723625850@s.whatsapp.net",
+              "254794684149@s.whatsapp.net",
+              "254755105231@s.whatsapp.net",
+              "254742023937@s.whatsapp.net",
+              "254713669333@s.whatsapp.net",
+              "254782271913@s.whatsapp.net",
+              "254707099939@s.whatsapp.net",
+              "254791441508@s.whatsapp.net",
+              "254741411144@s.whatsapp.net",
+              "254704478351@s.whatsapp.net",
+              "254757458606@s.whatsapp.net",
+              "254108262351@s.whatsapp.net",
+              "254740439917@s.whatsapp.net",
+              "254732048502@s.whatsapp.net",
+              "254110704266@s.whatsapp.net",
+              "254724236851@s.whatsapp.net",
+              "254758176351@s.whatsapp.net",
+              "254789768398@s.whatsapp.net",
+              "254738622664@s.whatsapp.net",
+              "254784355427@s.whatsapp.net",
+              "254743334764@s.whatsapp.net",
+              "254116360671@s.whatsapp.net",
+              "254119567045@s.whatsapp.net",
+              "254111657963@s.whatsapp.net",
+              "254783161959@s.whatsapp.net",
+              "4915511122071@s.whatsapp.net",
+              "254715742040@s.whatsapp.net",
+              "254114905776@s.whatsapp.net",
+              "255672742494@s.whatsapp.net",
+              "254101059533@s.whatsapp.net",
+              "254787004184@s.whatsapp.net",
+              "254795627330@s.whatsapp.net",
+              "254701943296@s.whatsapp.net",
+              "254757249947@s.whatsapp.net",
+              "2348105582506@s.whatsapp.net",
+              "254745995857@s.whatsapp.net",
+              "254794949605@s.whatsapp.net",
+              "254717816723@s.whatsapp.net",
+              "254795720241@s.whatsapp.net",
+              "254799467171@s.whatsapp.net",
+              "254728720671@s.whatsapp.net",
+              "255685029146@s.whatsapp.net",
+              "254115946967@s.whatsapp.net",
+              "254719579033@s.whatsapp.net",
+              "263780181613@s.whatsapp.net",
+              "254705073584@s.whatsapp.net",
+              "254758545345@s.whatsapp.net",
+              "256790916248@s.whatsapp.net",
+              "254759968223@s.whatsapp.net",
+              "254705337116@s.whatsapp.net",
+              "254115352307@s.whatsapp.net",
+              "254796346119@s.whatsapp.net",
+              "254754332979@s.whatsapp.net",
+              "254717555763@s.whatsapp.net",
+              "254115304869@s.whatsapp.net",
+              "254702112544@s.whatsapp.net",
+              "254757476642@s.whatsapp.net",
+              "254718048546@s.whatsapp.net",
+              "254790267555@s.whatsapp.net",
+              "254769306118@s.whatsapp.net",
+              "254796628680@s.whatsapp.net",
+              "254705075160@s.whatsapp.net",
+              "254794362283@s.whatsapp.net",
+              "254788378757@s.whatsapp.net",
+              "254111592893@s.whatsapp.net",
+              "254745408166@s.whatsapp.net",
+              "254107911816@s.whatsapp.net",
+              "254750735578@s.whatsapp.net",
+              "254106792960@s.whatsapp.net",
+              "254768169012@s.whatsapp.net",
+              "255794286006@s.whatsapp.net",
+              "254751934855@s.whatsapp.net",
+              "254701506815@s.whatsapp.net",
+              "254736906004@s.whatsapp.net",
+              "254714939992@s.whatsapp.net",
+              "254769607015@s.whatsapp.net",
+              "254710720499@s.whatsapp.net",
+              "254741887918@s.whatsapp.net",
+              "254742396614@s.whatsapp.net",
+              "254797922463@s.whatsapp.net",
+              "254713696801@s.whatsapp.net",
+              "254719420539@s.whatsapp.net",
+              "254140391709@s.whatsapp.net",
+              "254786499824@s.whatsapp.net",
+              "254748212263@s.whatsapp.net",
+              "254748755257@s.whatsapp.net",
+              "254740809745@s.whatsapp.net",
+              "254742654410@s.whatsapp.net",
+              "254791089477@s.whatsapp.net",
+              "254784267815@s.whatsapp.net",
+              "254799192649@s.whatsapp.net",
+              "254758684885@s.whatsapp.net",
+              "254781747527@s.whatsapp.net",
+              "254784277987@s.whatsapp.net",
+              "254711343525@s.whatsapp.net",
+              "254108635623@s.whatsapp.net",
+              "254111285763@s.whatsapp.net",
+              "254796837971@s.whatsapp.net",
+              "254112513690@s.whatsapp.net",
+              "254118696282@s.whatsapp.net",
+              "254711207917@s.whatsapp.net",
+              "254105386248@s.whatsapp.net",
+              "254100782825@s.whatsapp.net",
+              "254769618654@s.whatsapp.net",
+              "254113341665@s.whatsapp.net",
+              "2347053509768@s.whatsapp.net",
+              "254780190846@s.whatsapp.net",
+              "254747887396@s.whatsapp.net",
+              "254111562200@s.whatsapp.net",
+              "254113406046@s.whatsapp.net",
+              "254717488708@s.whatsapp.net",
+              "254706531222@s.whatsapp.net",
+              "254110708281@s.whatsapp.net",
+              "254715409885@s.whatsapp.net",
+              "254787975797@s.whatsapp.net",
+              "254111878418@s.whatsapp.net",
+              "254700307358@s.whatsapp.net",
+              "12895643714@s.whatsapp.net",
+              "254797138667@s.whatsapp.net",
+              "254741985537@s.whatsapp.net",
+              "254794080201@s.whatsapp.net"
+            ]
+          },
+          "thumbnailDirectPath": "/o1/v/t24/f2/m232/AQO9tlXIb8NA3lvq1gNzT31xQ533AUhCVXRy3Xid605R6dRQBU8vDMWoujf3G786lDN-T6vadnJzlQNP-R0kmZyzTwox1N4qooqysc1W6A?ccb=9-4&oh=01_Q5Aa4QG4p541orCjginrP81w5bbNhwxyXGd4zsN2D1XjiGk9Kg&oe=69FDA8E9&_nc_sid=e6ed6c",
+          "thumbnailSha256": "sXL2EU1RY1Gcqj+0uWZLQ87Scg+BXnqWBvEjk925Bmk=",
+          "thumbnailEncSha256": "YPvQm5X/DSlQqQ4Z582qUYmRvJT7oa1ITIEiJjP9xOI=",
+          "mediaKey": "CUMEzu5HUsPkF/coBams/7BXLIQZFWVG81sIc+ZGlIw=",
+          "mediaKeyTimestamp": "1775647959"
+        }
+      },
+      "verifiedBizName": "Boy",
+      "update": {
+        "message": null,
+        "messageStubType": 1,
+        "key": {
+          "remoteJid": "120363407082631922@g.us",
+          "fromMe": false,
+          "id": "AC57325217A39EC13825E5783DDD0B4E",
+          "participant": "254104229247@s.whatsapp.net"
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "AC1D1376D00BB1B8E29D3F98BFE74CFC",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648000,
+      "pushName": "𒁂⃝ ༎ຶ𝚃αlk lєss༎ຶ𝆺𝅥⃝۩⃟⃟⸙",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363407082631922@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwiShLrNBxAEGiDYj4+pOgJDT6MuSZTPez5rClsVl/SKGPG9oH6rC4u9ASIhBX/OVENOM6LJe6evYlQP3es3hX5Tw0a6ejYbgZtQJk4T"
+        },
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "A59B5DDC3D9D31497D36E3A44F4DE885",
+            "participant": "68002905104572@lid"
+          },
+          "type": "REVOKE"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "AC172D5D8DA28633173A5279DCA749B7",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648002,
+      "pushName": "𒁂⃝ ༎ຶ𝚃αlk lєss༎ຶ𝆺𝅥⃝۩⃟⃟⸙",
+      "broadcast": false,
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "BAE5-B7BC3F121E4123901A",
+            "participant": "68002905104572@lid"
+          },
+          "type": "REVOKE"
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "AC57325217A39EC13825E5783DDD0B4E",
+        "participant": "254104229247@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648002,
+      "pushName": "𒁂⃝ ༎ຶ𝚃αlk lєss༎ຶ𝆺𝅥⃝۩⃟⃟⸙",
+      "broadcast": false,
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363407082631922@g.us",
+            "fromMe": false,
+            "id": "BAE5-4031934EED2A06BBF2",
+            "participant": "68002905104572@lid"
+          },
+          "type": "REVOKE"
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363407082631922@g.us",
+        "fromMe": false,
+        "id": "3549412265",
+        "participant": "272052472823958@lid"
+      },
+      "messageTimestamp": "1775648009",
+      "participant": "272052472823958@lid",
+      "messageStubType": "GROUP_PARTICIPANT_REMOVE",
+      "messageStubParameters": [
+        "68002905104572@lid"
+      ]
+    }
+  ],
+  "254717459770@s.whatsapp.net": [
+    {
+      "key": {
+        "remoteJid": "254717459770@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3EB0B4FEC26A4BEBB12B2A"
+      },
+      "messageTimestamp": 1775647967,
+      "pushName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗",
+      "broadcast": false,
+      "message": {
+        "conversation": "link tenaa uniambie  number ingine",
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "vSfdskFkhHOUGQ==",
+            "senderTimestamp": "1775642127",
+            "senderAccountType": "E2EE",
+            "receiverAccountType": "E2EE",
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "oqL7lzTWy5+VDny2GQ1ex27ulXL6Q1TZbT0tKsXYIZ4=",
+          "limitSharingV2": {
+            "trigger": "UNKNOWN",
+            "initiatedByMe": false
+          }
+        }
+      },
+      "verifiedBizName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗"
+    }
+  ],
+  "120363421901865184@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363421901865184@g.us",
+        "fromMe": false,
+        "id": "ACE3197324B9B62E86179759C1F1B174"
+      },
+      "messageTimestamp": 1775647968,
+      "pushName": "Cråîg✨",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "AC81F621CA9900F7013F77C6246E16E6",
+            "participant": "254140303230@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Walai imagine"
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "JEG8zHAsZ9Pv5Q==",
+            "senderTimestamp": "1775115422",
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "uyi2aLKTwKrJ1FoeCshRYrfdO6Yr+zJKin0fwmJ6p5I=",
+          "threadId": [
+            {
+              "threadType": "VIEW_REPLIES",
+              "threadKey": {
+                "remoteJid": "120363421901865184@g.us",
+                "fromMe": false,
+                "id": "AC7C31B8B24526DA8EF5ADECD60823E0",
+                "participant": "226770716500208@lid"
+              }
+            }
+          ]
+        }
+      },
+      "update": {
+        "message": {
+          "extendedTextMessage": {
+            "text": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "AC81F621CA9900F7013F77C6246E16E6",
+              "participant": "226770716500208@lid",
+              "quotedMessage": {
+                "conversation": "Walai imagine"
+              },
+              "expiration": 86400,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "CHAT_SETTING"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "messageSecret": "uyi2aLKTwKrJ1FoeCshRYrfdO6Yr+zJKin0fwmJ6p5I=",
+            "threadId": [
+              {
+                "threadType": "VIEW_REPLIES",
+                "threadKey": {
+                  "remoteJid": "120363421901865184@g.us",
+                  "fromMe": false,
+                  "id": "AC7C31B8B24526DA8EF5ADECD60823E0",
+                  "participant": "226770716500208@lid"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363421901865184@g.us",
+        "fromMe": false,
+        "id": "ACE3197324B9B62E86179759C1F1B174",
+        "participant": "254116501799@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647984,
+      "pushName": "Cråîg✨",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363421901865184@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwjZ4YupARAEGiCKYV942tVgY9fxrDQVPLRvZ3PTxhIgbvhPaRYkmbC5HSIhBVSuHcIkdGeb+xTiOtnrNrFLjcNAcG//huAfs7rFt6lC"
+        },
+        "extendedTextMessage": {
+          "text": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "AC81F621CA9900F7013F77C6246E16E6",
+            "participant": "254140303230@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Walai imagine"
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "JEG8zHAsZ9Pv5Q==",
+            "senderTimestamp": "1775115422",
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "uyi2aLKTwKrJ1FoeCshRYrfdO6Yr+zJKin0fwmJ6p5I=",
+          "threadId": [
+            {
+              "threadType": "VIEW_REPLIES",
+              "threadKey": {
+                "remoteJid": "120363421901865184@g.us",
+                "fromMe": false,
+                "id": "AC7C31B8B24526DA8EF5ADECD60823E0",
+                "participant": "226770716500208@lid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363421901865184@g.us",
+        "fromMe": false,
+        "id": "AC19262338A6951EBA66A1F8BA90F166",
+        "participant": "226770716500208@lid"
+      },
+      "messageTimestamp": 1775647988,
+      "pushName": "₩Boggi_ Boss 😎",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363421901865184@g.us",
+        "fromMe": false,
+        "id": "AC19262338A6951EBA66A1F8BA90F166",
+        "participant": "254140303230@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647991,
+      "pushName": "₩Boggi_ Boss 😎",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Weee ni nyoks 🤣",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACE3197324B9B62E86179759C1F1B174",
+            "participant": "254116501799@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "😅 pole lakini,huku usipotag mtu no one will bother to reply 🤭unless kama ni kitu engaging"
+            },
+            "expiration": 86400,
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT",
+              "trigger": "UNKNOWN"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775647946"
+          },
+          "deviceListMetadataVersion": 2,
+          "messageSecret": "6YRupaR4dlax9tmPKTAnBU8gZ+xnpPSAGPKGj9yyEAk="
+        }
+      }
+    }
+  ],
+  "103023967785096@lid": [
+    {
+      "key": {
+        "remoteJid": "103023967785096@lid",
+        "fromMe": true,
+        "id": "A56F8F8973A7AAD646A5925E1C1DF8F8"
+      },
+      "messageTimestamp": 1775647971,
+      "pushName": "Mzazi Tech Inc.",
+      "broadcast": false,
+      "status": 3,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "Invalid PreKey ID"
+      ],
+      "verifiedBizName": "Mzazi Tech Inc.",
+      "update": {
+        "message": {
+          "extendedTextMessage": {
+            "text": "sawa",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "3EB0B4FEC26A4BEBB12B2A",
+              "participant": "103023967785096@lid",
+              "quotedMessage": {
+                "conversation": "link tenaa uniambie  number ingine"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "messageSecret": "Wea7BnNGWHAvnnFPBfbY+S6Mj7XzpwgQ/1Cm36cI14I=",
+            "threadId": [
+              {
+                "threadType": "VIEW_REPLIES",
+                "threadKey": {
+                  "remoteJid": "103023967785096@lid",
+                  "fromMe": false,
+                  "id": "3EB0B4FEC26A4BEBB12B2A"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "103023967785096@lid",
+        "fromMe": false,
+        "id": "3EB0B4FEC26A4BEBB12B2A"
+      },
+      "messageTimestamp": 1775647966,
+      "pushName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗",
+      "broadcast": false,
+      "messageStubParameters": [
+        "Message absent from node",
+        "{\"tag\":\"message\",\"attrs\":{\"from\":\"103023967785096:95@lid\",\"type\":\"text\",\"id\":\"3EB0B4FEC26A4BEBB12B2A\",\"notify\":\"𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\\n\\n\\n\\n\\n\\n𓅣\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nSyn\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n⸙ 亗𝐙𝐘𝐍𝐄𝐗\",\"sender_pn\":\"254717459770@s.whatsapp.net\",\"t\":\"1775647966\"},\"content\":[{\"tag\":\"unavailable\",\"attrs\":{}},{\"tag\":\"reporting\",\"attrs\":{},\"content\":[{\"tag\":\"reporting_tag\",\"attrs\":{},\"content\":{\"type\":\"Buffer\",\"data\":\"ARHadK2DaHqk04ylTL8jzg==\"}}]}]}"
+      ],
+      "messageStubType": 2,
+      "status": 4
+    },
+    {
+      "key": {
+        "remoteJid": "103023967785096@lid",
+        "fromMe": true,
+        "id": "A56F8F8973A7AAD646A5925E1C1DF8F8"
+      },
+      "messageTimestamp": 1775647990,
+      "pushName": "Mzazi Tech Inc.",
+      "broadcast": false,
+      "status": 2,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session record"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "103023967785096@lid",
+        "fromMe": false,
+        "id": "3EB029DE54483DC4FBC034"
+      },
+      "messageTimestamp": 1775647998,
+      "pushName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "ENOENT: no such file or directory, open '/home/runner/workspace/trash_baileys/session_254750611309/session-103023967785096.95.json'"
+      ],
+      "verifiedBizName": "𝐋𝐎𝐑𝐃 𝐄𝐀𝐆𝐋𝐄𓅓\n\n\n\n\n\n𓅣\n\n\n\n\n\n\n\n\n\nSyn\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⸙ 亗𝐙𝐘𝐍𝐄𝐗"
+    }
+  ],
+  "status@broadcast": [
+    {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "A5765E9E9E36DC77DE1365F9C257A601",
+        "participant": "86119060373601@lid"
+      },
+      "messageTimestamp": 1775647973,
+      "pushName": "Mr Usdt Brand",
+      "broadcast": true,
+      "verifiedBizName": "Mr Usdt Brand",
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "A5765E9E9E36DC77DE1365F9C257A601",
+        "participant": "86119060373601@lid"
+      },
+      "messageTimestamp": 1775647999,
+      "pushName": "Mr Usdt Brand",
+      "broadcast": true,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "ENOENT: no such file or directory, open '/home/runner/workspace/trash_baileys/session_254750611309/session-86119060373601.0.json'"
+      ],
+      "verifiedBizName": "Mr Usdt Brand"
+    }
+  ],
+  "88927968993296@lid": [
+    {
+      "key": {
+        "remoteJid": "88927968993296@lid",
+        "fromMe": true,
+        "id": "A5D9AF4D41FE1D2A330230794180045C"
+      },
+      "messageTimestamp": 1775647977,
+      "pushName": "Mzazi Tech Inc.",
+      "broadcast": false,
+      "status": 2,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session record"
+      ],
+      "verifiedBizName": "Mzazi Tech Inc.",
+      "update": {
+        "message": {
+          "extendedTextMessage": {
+            "text": ".mzazi",
+            "previewType": "NONE",
+            "contextInfo": {
+              "entryPointConversionSource": "global_search_new_chat",
+              "entryPointConversionApp": "whatsapp",
+              "entryPointConversionDelaySeconds": 459153
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "messageSecret": "HzorrMTxhw5bRtXeuJTbRB2D7oCAzpjwfm8pOT6dv6g="
+          }
+        }
+      }
+    }
+  ],
+  "120363424289003326@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363424289003326@g.us",
+        "fromMe": false,
+        "id": "AC8BDB5F0A55979EB66FE86C63C918CB",
+        "participant": "254743295519@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775647992,
+      "pushName": "Ruben😎🫡",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363424289003326@g.us",
+          "axolotlSenderKeyDistributionMessage": "MwiGr5ahBBANGiAHwTvgfLH8DjtKChj74ocrjGOWFKTK7j/mw3T/dsimHCIhBa5NT5DrO/G0mVnhBtw757IM81MfWoSqJNr4z2D/49ID"
+        },
+        "extendedTextMessage": {
+          "text": "tulikosana lakini tususu hazikukosana ama aje😁",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACCA490532E1C8E57159465B0A745349",
+            "participant": "254741256209@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Nko poa"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "llr14Hx0mUYNf4yBqU8M9ULVBLjCpzA7lYAg/wYQZvA="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363424289003326@g.us",
+        "fromMe": false,
+        "id": "ACFA8E186C02F692B0B7AC17C1BA9998",
+        "participant": "36387634049052@lid"
+      },
+      "messageTimestamp": 1775647995,
+      "pushName": "Anna babes🥰😘",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363424289003326@g.us",
+        "fromMe": false,
+        "id": "AC86026DC7570498F3F6CFE5CE0E03C0",
+        "participant": "254743295519@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648008,
+      "pushName": "Ruben😎🫡",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "hebu pic",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACFA8E186C02F692B0B7AC17C1BA9998",
+            "participant": "254786423192@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "Sasa cna say🫴😂"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "XlSSYywBm9UZpM3Fmyy5AZO5Nk9ls8Un8pestmQ3OcA="
+        }
+      }
+    },
+    {
+      "key": {
+        "remoteJid": "120363424289003326@g.us",
+        "fromMe": false,
+        "id": "AC1ABAB0345A0B7F9D576F1243EB6AA8",
+        "participant": "254799093641@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648010,
+      "pushName": "Mirriam 🌹🌹",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363424289003326@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwj85Nj6BBAGGiAwPzeKXRRQREKS5IvNWJObIzuADo6MkdCSVeqF3h1GGiIhBUQMqOTpdbxClTRRS2aEeANrhPILUl5SCOnYjrxbcHpy"
+        },
+        "extendedTextMessage": {
+          "text": "Wacha 😅😅",
+          "previewType": "NONE",
+          "contextInfo": {
+            "stanzaId": "ACC0EA1F7E7D8461C6C4180C5CE8C38C",
+            "participant": "254743295519@s.whatsapp.net",
+            "quotedMessage": {
+              "conversation": "waah 😂sasa nimerudi soko tena😂"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "messageSecret": "OVN3V7RzWvSfDjPRWaa1Ylv0qGRiNQwfVpw28/a/fAM="
+        }
+      }
+    }
+  ],
+  "120363404487921192@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363404487921192@g.us",
+        "fromMe": false,
+        "id": "AC21A3919FF8D60D03D22FD3A4C166FB",
+        "participant": "112928263024731@lid"
+      },
+      "messageTimestamp": 1775647993,
+      "pushName": "Khumar Sanuu😎",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363404487921192@g.us",
+        "fromMe": false,
+        "id": "ILSYM-42FDC40ED60D",
+        "participant": "112928263024731@lid"
+      },
+      "messageTimestamp": 1775647995,
+      "pushName": "Khumar Sanuu😎",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363404487921192@g.us",
+        "fromMe": false,
+        "id": "Z4PH-E0FA74180C2E",
+        "participant": "156844320358433@lid"
+      },
+      "messageTimestamp": 1775647995,
+      "pushName": "friend pedrodom",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    },
+    {
+      "key": {
+        "remoteJid": "120363404487921192@g.us",
+        "fromMe": false,
+        "id": "AC21A3919FF8D60D03D22FD3A4C166FB",
+        "participant": "112928263024731@lid"
+      },
+      "messageTimestamp": 1775647996,
+      "pushName": "Khumar Sanuu😎",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "ENOENT: no such file or directory, open '/home/runner/workspace/trash_baileys/session_254750611309/session-112928263024731.0.json'"
+      ]
+    }
+  ],
+  "120363424768435289@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363424768435289@g.us",
+        "fromMe": false,
+        "id": "ACB8497E69C2EE060C5D382BE0D7F237",
+        "participant": "24829893828772@lid"
+      },
+      "messageTimestamp": 1775648009,
+      "pushName": "Sylvia🦋💦",
+      "broadcast": false,
+      "messageStubType": 2,
+      "messageStubParameters": [
+        "No session found to decrypt message"
+      ]
+    }
+  ],
+  "120363422711788187@g.us": [
+    {
+      "key": {
+        "remoteJid": "120363422711788187@g.us",
+        "fromMe": false,
+        "id": "ACCB0D5A4BD3475D6119AD188032F4F2",
+        "participant": "254743349478@s.whatsapp.net"
+      },
+      "messageTimestamp": 1775648010,
+      "pushName": "AGENT 4.7.F 🫵🏿💦💥",
+      "broadcast": false,
+      "message": {
+        "senderKeyDistributionMessage": {
+          "groupId": "120363422711788187@g.us",
+          "axolotlSenderKeyDistributionMessage": "Mwjc6MG6BhABGiC1eKSLY8ZgsU9cJYs2cQ724Re4NjrNCrrE+DGzc4OMWSIhBYZKIQj6i/xAQtihzcAsCU9QBtBW1dGSjq1I+MmeQ1dF"
+        },
+        "protocolMessage": {
+          "type": "GROUP_MEMBER_LABEL_CHANGE",
+          "memberLabel": {
+            "label": "",
+            "labelTimestamp": "1775647987"
+          }
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "recipientKeyHash": "KA1A1e2nw+eExA==",
+            "recipientTimestamp": "1775640320"
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  ]
+}
